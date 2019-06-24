@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::dropdown_image"
+msgid "EnergoThemes - Mega Menu image"
+msgstr "EnergoThemes - Mega Menu image"
+
+msgctxt "Addons::description::dropdown_image"
+msgid "Adds category image to dropdown menu and extra settings for the image and menu configurable in the addon tab of all categories."
+msgstr "Adds category image to dropdown menu and extra settings for the image and menu configurable in the addon tab of all categories."
+

@@ -1,0 +1,20 @@
+{
+	"default_style": "VIVAshop1",
+	"default": {
+		"VIVAshop1": true,
+		"VIVAshop2": true,
+		"VIVAshop3": true,
+		"VIVAshop4": true,
+		"VIVAshop5": true,
+		"VIVAshop6": true,
+		"VIVAshop7": true,
+		"VIVAshop8": true,
+		"VIVAshop9": true,
+		"VIVAshop10": true,
+		"VIVAshop11": true,
+		"VIVAshop12": true,
+		"VIVAshop13": true,
+		"VIVAshop14": true,
+		"VIVAshop15": true
+	}
+}

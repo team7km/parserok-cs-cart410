@@ -1,0 +1,57 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::csc_vertical_menu"
+msgid "CS-Coding: Vertical Menu"
+msgstr "CS-Coding: Vertical Menu"
+
+msgctxt "Addons::description::csc_vertical_menu"
+msgid "Vertical Menu"
+msgstr "Vertical Menu"
+
+msgctxt "SettingsSections::csc_vertical_menu::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::csc_vertical_menu::licensekey"
+msgid "License Key"
+msgstr "License Key"
+
+msgctxt "SettingsOptions::csc_vertical_menu::background_elements"
+msgid "Background Elements"
+msgstr "Background Elements"
+
+msgctxt "SettingsOptions::csc_vertical_menu::background_submenu_elements"
+msgid "Background Submenu Elements"
+msgstr "Background Submenu Elements"
+
+msgctxt "SettingsOptions::csc_vertical_menu::color_text_elements"
+msgid "Color Text Elements"
+msgstr "Color Text Elements"
+
+msgctxt "SettingsOptions::csc_vertical_menu::submenu_color_text_elements"
+msgid "Submenu Color Text Elements"
+msgstr "Submenu Color Text Elements"
+
+msgctxt "SettingsOptions::csc_vertical_menu::show_product_count"
+msgid "Show Product Count"
+msgstr "Show Product Count"
+
+msgctxt "Languages::csc_your_license_is_not_valid"
+msgid "License Key is not valid"
+msgstr "License Key is not valid"
+
+msgctxt "Languages::vertical_menu"
+msgid "Vertical Menu"
+msgstr "Vertical Menu"
+
+msgctxt "Languages::block_vertical_menu"
+msgid "Vertical Menu"
+msgstr "Vertical Menu"
+
+msgctxt "Languages::vertical_menu_block"
+msgid "Vertical Menu"
+msgstr "Vertical Menu"

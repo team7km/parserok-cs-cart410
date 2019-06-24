@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>csc_vertical_menu</id>
+    <version>1.0</version>
+	<status>disabled</status>
+    <settings>
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="licensekey">
+                        <type>input</type>
+                    </item>
+					<item id="background_elements">
+                        <type>input</type>
+                        <default_value>#414956</default_value>
+                    </item>
+                    <item id="background_submenu_elements">
+                        <type>input</type>
+                        <default_value>#383838</default_value>
+                    </item>
+                    <item id="color_text_elements">
+                        <type>input</type>
+                        <default_value>#f0f0f0</default_value>
+                    </item>
+                    <item id="submenu_color_text_elements">
+                        <type>input</type>
+                        <default_value>#f0f0f0</default_value>
+                    </item>
+                    <item id="show_product_count">
+                        <type>checkbox</type>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+
+    <functions>
+        <item for="install">fn_csc_vertical_menu_install</item>
+    </functions>
+</addon>

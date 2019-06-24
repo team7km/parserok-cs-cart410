@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<addon scheme='2.0'>
+    <id>zenmall</id>
+    <version>0.4</version>
+    <name>ZenMall</name>
+    <description>ZenMall Export</description>
+    <priority>100500</priority>
+    <status>active</status>
+    <translations>
+        <item for="name" lang="ru">ZenMall</item>
+        <item for="description" lang="ru">Экспорт каталога для интеграции с сервисом ZenMall</item>
+    </translations>
+
+    <language_variables>
+
+        <item lang="ru" id="zenmall_export_start_title">Экспорт каталога товаров</item>
+        <item lang="ru" id="zenmall_export_start_description">Каталог создается на основе ваших товаров и товарных категорий.</item>
+        <item lang="ru" id="zenmall_export_start_button">СОЗДАТЬ КАТАЛОГ ТОВАРОВ</item>
+        <item lang="ru" id="zenmall_export_start_info">Каталог будет сформирован автоматически на вашем хостинге.После экспорта в ZenMall каталог будет удален.</item>
+        <item lang="ru" id="zenmall_export_sync_title">Создание каталога товаров</item>
+        <item lang="ru" id="zenmall_export_sync_description">Пожалуйста подождите, это может занять некоторое время</item>
+        <item lang="ru" id="zenmall_export_sync_status_text_catalog_sctructure">Создание структуры каталога</item>
+        <item lang="ru" id="zenmall_export_sync_info_time">Время затраченное на создание каталога зависит от количества товаров. Для 1000 товаров процесс создания каталога занимет приблизительно ~3 минтуы</item>;
+        <item lang="ru" id="zenmall_export_finish_title">Каталог товаров успешно сформирован!</item>
+        <item lang="ru" id="zenmall_export_finish_registration">Зарегистрируйте</item>
+        <item lang="ru" id="zenmall_export_finish_your_shop">ваш магазин на ZenMall.</item>
+        <item lang="ru" id="zenmall_export_finish_copy_link">Скопируйте ссылку на каталог товаров нажав кнопку “Получить ссылку”.</item>
+        <item lang="ru" id="zenmall_export_finish_open_page">Откройте страницу </item>
+        <item lang="ru" id="zenmall_export_finish_manage_catalog">“Управление каталогом”</item>
+        <item lang="ru" id="zenmall_export_finish_in_back_office">в бэк-офисе ZenMall.</item>
+        <item lang="ru" id="zenmall_export_finish_insert_link">Вставьте скопированную ссылку в поле “Адрес каталога” (CTRL + V) и нажмите кнопку “Сохранить”.</item>
+        <item lang="ru" id="zenmall_export_finish_button_get_link">ПОЛУЧИТЬ ССЫЛКУ</item>
+        <item lang="ru" id="zenmall_export_finish_catalog_will_be_imported">Ваш каталог будет автоматически импортирован в ZenMall со статусом “На модерации”, как только статус изменится на “Активен” ваш товары появятся в сервисе ZenMall.</item>
+        <item lang="ru" id="zenmall_export_finish_recommendation">Рекомендуем выполнять процедуру обновления товарного каталога не реже 3-4 раз в неделю.</item>
+        <item lang="ru" id="zenmall_export_error_generate">Произошла ошибка при генерации файла экспорта</item>
+        <item lang="ru" id="zenmall_export_error_categories_not_found">Не удалось обнаружить торговые категории для экспорта</item>
+        
+        <item lang="en" id="zenmall_export_start_title">Export of the product catalog</item>
+        <item lang="en" id="zenmall_export_start_description">The catalog is based on your products and product categories.</item>
+        <item lang="en" id="zenmall_export_start_button">CREATE YOUR PRODUCT CATALOG</item>
+        <item lang="en" id="zenmall_export_start_info">The catalog will be automatically created on your hosting. It will be deleted after being exported on ZenMall.</item>
+        <item lang="en" id="zenmall_export_sync_title">Product catalog setup</item>
+        <item lang="en" id="zenmall_export_sync_description">Please wait, it may take some time</item>
+        <item lang="en" id="zenmall_export_sync_status_text_catalog_sctructure">Catalog structure creation</item>
+        <item lang="en" id="zenmall_export_sync_info_time">The time needed for the catalog creation depends on the number of products. For 1000 products it will take about 3 minutes.</item>
+        <item lang="en" id="zenmall_export_finish_title">The product catalog is sucessfully set.</item>
+        <item lang="en" id="zenmall_export_finish_registration">Register</item>
+        <item lang="en" id="zenmall_export_finish_your_shop">your shop on ZenMall.</item>
+        <item lang="en" id="zenmall_export_finish_copy_link">Copy the link to the product catalog clicking on the button “Copy the link”.</item>
+        <item lang="en" id="zenmall_export_finish_open_page">Open the page </item>
+        <item lang="en" id="zenmall_export_finish_manage_catalog">“Catalog management”</item>
+        <item lang="en" id="zenmall_export_finish_in_back_office">in the ZenMall’s back-office.</item>
+        <item lang="en" id="zenmall_export_finish_insert_link">Paste the link in the field “Catalog address” (CTRL+V) and click on the button “Save”</item>
+        <item lang="en" id="zenmall_export_finish_button_get_link">COPY THE LINK</item>
+        <item lang="en" id="zenmall_export_finish_catalog_will_be_imported">Your catalog will be automatically imported on ZenMall with the status “Being moderated”. Your products will be visible on ZenMall as soon as your status is “Active”.</item>
+        <item lang="en" id="zenmall_export_finish_recommendation">We recommend to update your product catalog not less than 3-4 times a week.</item>
+        <item lang="en" id="zenmall_export_error_generate">An error has accured while generating the export file</item>
+        <item lang="en" id="zenmall_export_error_categories_not_found">Product categories for export not found</item>
+
+    </language_variables>
+</addon>

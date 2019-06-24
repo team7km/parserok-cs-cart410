@@ -1,0 +1,57 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::csc_vertical_menu"
+msgid "CS-Coding: Vertical Menu"
+msgstr "CS-Coding: Вертикальное меню"
+
+msgctxt "Addons::description::csc_vertical_menu"
+msgid "Vertical Menu"
+msgstr "Вертикальное меню"
+
+msgctxt "SettingsSections::csc_vertical_menu::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsOptions::csc_vertical_menu::licensekey"
+msgid "License Key"
+msgstr "Ключ лицензии"
+
+msgctxt "SettingsOptions::csc_vertical_menu::background_elements"
+msgid "Background Elements"
+msgstr "Фон элементов"
+
+msgctxt "SettingsOptions::csc_vertical_menu::background_submenu_elements"
+msgid "Background Submenu Elements"
+msgstr "Фон элементов подменю"
+
+msgctxt "SettingsOptions::csc_vertical_menu::color_text_elements"
+msgid "Color Text Elements"
+msgstr "Цвет текста элементов"
+
+msgctxt "SettingsOptions::csc_vertical_menu::submenu_color_text_elements"
+msgid "Submenu Color Text Elements"
+msgstr "Цвет текста элементов подменю"
+
+msgctxt "SettingsOptions::csc_vertical_menu::show_product_count"
+msgid "Show Product Count"
+msgstr "Показывать количество товаров"
+
+msgctxt "Languages::csc_your_license_is_not_valid"
+msgid "License Key is not valid"
+msgstr "Ключ лицензии не верный"
+
+msgctxt "Languages::vertical_menu"
+msgid "Vertical Menu"
+msgstr "Вертикальное меню"
+
+msgctxt "Languages::block_vertical_menu"
+msgid "Vertical Menu Block"
+msgstr "Вертикальное меню"
+
+msgctxt "Languages::vertical_menu_block"
+msgid "Show Products Count"
+msgstr "Вертикальное меню"

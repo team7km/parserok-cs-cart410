@@ -1,0 +1,576 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2191:"<script type="text/javascript" src="https://cscart410.parserok.pp.ua/js/tygh/exceptions.js?ver=4.10.1" ></script><script type="text/javascript" src="https://cscart410.parserok.pp.ua/js/tygh/previewers/owl.previewer.js?ver=4.10.1" ></script><script type="text/javascript" src="https://cscart410.parserok.pp.ua/js/tygh/product_image_gallery.js?ver=4.10.1" ></script><script type="text/javascript" class="cm-ajax-force">
+(function(_, $) {
+    $(document).ready(function () {
+        if($(".twitter-share-button").length > 0){
+            if (typeof (twttr) != 'undefined') {
+                twttr.widgets.load();
+            } else {
+                $.getScript('//platform.twitter.com/widgets.js');
+            }
+        }
+    });
+}(Tygh, Tygh.$));
+</script><script class="cm-ajax-force">
+    (function(_, $) {
+        if ($(".fb-like").length > 0) {
+            if (typeof (FB) != 'undefined') {
+                FB.init({ status: true, cookie: true, xfbml: true });
+            } else {
+                $.getScript("//connect.facebook.net/en_US/all.js#xfbml=1&appId=", function () {
+                    FB.init({ status: true, cookie: true, xfbml: true });
+                });
+            }
+        }
+    }(Tygh, Tygh.$));
+</script><script type="text/javascript">
+    (function(d){
+        if (window.PinUtils) {
+            window.PinUtils.build();
+            return;
+        }
+
+        var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+        p.type = 'text/javascript';
+        p.async = true;
+        p.src = '//assets.pinterest.com/js/pinit.js';
+        f.parentNode.insertBefore(p, f);
+    }(document));
+</script><script type="text/javascript" src="https://cscart410.parserok.pp.ua/js/tygh/tabs.js?ver=4.10.1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.formpre_product_form_5793', function(frm, elm) {
+        if ($('#warning_5793').length) {
+            $.ceNotification('show', {
+                type: 'W', 
+                title: _.tr('warning'), 
+                message: _.tr('cannot_buy')
+            });
+
+            return false;
+        }
+            
+        return true;
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:28258:"        
+
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+<div class="ty-product-block ty-product-detail">
+    <div class="ty-product-block__wrapper clearfix">
+    <div itemscope itemtype="http://schema.org/Product">
+    <meta itemprop="sku" content="№H222282" />
+    <meta itemprop="name" content="Бушлат военный  на искусственной овчине (44-60) &quot;Pit&quot; LM-959" />
+    <meta itemprop="description" content="Хорошее качество&quot;Материал: ткань алова Подкладка: овчина искусственная
+Размеры: 44,46.48.50.52.54.56.58.60
+Цвет как на фото 
+Страна производитель: Украина
+Внимание! На сайте везде представлены оптовые цены. При оформлении заказа до 500 грн., для любой категории клиентов к общей стоимости заказа будет добавлена розничная наценка (+50 грн). Для приобретения товара без розничной наценки необходимо соблюсти два условия:
+
+сумма заказа должна быть более 500 грн;
+нужно заказать не менее 5 единиц из одного товарного раздела.
+
+Если данные условия не соблюдены - к общей стоимости заказа будет добавлена розничная наценка, которая указана в условиях сотрудничества, в разделе &quot;Условия для розничных покупателей&quot;.
+Для более детальной информации ознакомьтесь с условиями сотрудничества нашей компании.
+Подписывайтесь на наше Viber сообщество
+Подписывайтесь на наш Telegram канал
+♦♦♦ Общайтесь с нами вживую в Ваших любимых мессенджерах и узнавайте о новинках первыми! ♦♦♦" />
+            <meta itemprop="image" content="https://cscart410.parserok.pp.ua/images/detailed/8/1479067972_bushlat-voennyj-na.jpg" />
+            <meta itemprop="image" content="https://cscart410.parserok.pp.ua/images/detailed/8/1479068899_bushlat-voennyj-na.jpg" />
+    
+    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+        <link itemprop="availability" href="http://schema.org/OutOfStock" />
+                    <meta itemprop="priceCurrency" content="UAH"/>
+            <meta itemprop="price" content="660"/>
+            </div>
+
+    
+    
+
+
+</div>
+
+                                    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-block__img-wrapper">
+                
+                                            <div class="ty-product-block__img cm-reload-5793" id="product_images_5793_update">
+
+                                                                            
+            
+
+                            
+    
+    
+    
+<div class="ty-product-img cm-preview-wrapper" id="product_images_57935d0f246ea1e17">
+                    <a id="det_img_link_57935d0f246ea1e17_8651" data-ca-image-id="preview[product_images_57935d0f246ea1e17]" class="cm-image-previewer cm-previewer ty-previewer" data-ca-image-width="984" data-ca-image-height="1280" href="https://cscart410.parserok.pp.ua/images/thumbnails/1280/1280/detailed/8/1479067972_bushlat-voennyj-na.jpg" title=""><img class="ty-pict     cm-image" id="det_img_57935d0f246ea1e17_8651"  src="https://cscart410.parserok.pp.ua/images/thumbnails/465/465/detailed/8/1479067972_bushlat-voennyj-na.jpg"  alt="" title="" srcset="https://cscart410.parserok.pp.ua/images/thumbnails/930/930/detailed/8/1479067972_bushlat-voennyj-na.jpg 2x"/><svg class="ty-pict__container" aria-hidden="true" width="465" height="465" viewBox="0 0 465 465" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="465" height="465"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+
+                                                                                <a id="det_img_link_57935d0f246ea1e17_8713" data-ca-image-id="preview[product_images_57935d0f246ea1e17]" class="cm-image-previewer hidden cm-previewer ty-previewer" data-ca-image-width="1280" data-ca-image-height="960" href="https://cscart410.parserok.pp.ua/images/thumbnails/1280/1280/detailed/8/1479068899_bushlat-voennyj-na.jpg" title=""><img class="ty-pict     cm-image" id="det_img_57935d0f246ea1e17_8713"  src="https://cscart410.parserok.pp.ua/images/thumbnails/465/465/detailed/8/1479068899_bushlat-voennyj-na.jpg"  alt="" title="" srcset="https://cscart410.parserok.pp.ua/images/thumbnails/930/930/detailed/8/1479068899_bushlat-voennyj-na.jpg 2x"/><svg class="ty-pict__container" aria-hidden="true" width="465" height="465" viewBox="0 0 465 465" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="465" height="465"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+            </div>
+
+                    <input type="hidden" name="no_cache" value="1" />
+        <div class="ty-center ty-product-bigpicture-thumbnails_gallery"><div class="cm-image-gallery-wrapper ty-thumbnails_gallery ty-inline-block"><div class="ty-product-thumbnails owl-carousel cm-image-gallery" id="images_preview_57935d0f246ea1e17"><div class="cm-item-gallery ty-float-left"><a data-ca-gallery-large-id="det_img_link_57935d0f246ea1e17_8651"class="cm-gallery-item cm-thumbnails-mini active ty-product-thumbnails__item"style="width: 35px"data-ca-image-order="0"data-ca-parent="#product_images_57935d0f246ea1e17">                <img class="ty-pict     cm-image" id="det_img_57935d0f246ea1e17_8651_mini"  src="https://cscart410.parserok.pp.ua/images/thumbnails/35/35/detailed/8/1479067972_bushlat-voennyj-na.jpg"  alt="" title="" srcset="https://cscart410.parserok.pp.ua/images/thumbnails/70/70/detailed/8/1479067972_bushlat-voennyj-na.jpg 2x"/>
+
+</a></div><div class="cm-item-gallery ty-float-left"><a data-ca-gallery-large-id="det_img_link_57935d0f246ea1e17_8713"class="cm-gallery-item cm-thumbnails-mini ty-product-thumbnails__item"data-ca-image-order="1"data-ca-parent="#product_images_57935d0f246ea1e17">                <img class="ty-pict     cm-image" id="det_img_57935d0f246ea1e17_8713_mini"  src="https://cscart410.parserok.pp.ua/images/thumbnails/35/35/detailed/8/1479068899_bushlat-voennyj-na.jpg"  alt="" title="" srcset="https://cscart410.parserok.pp.ua/images/thumbnails/70/70/detailed/8/1479068899_bushlat-voennyj-na.jpg 2x"/>
+
+</a></div></div>
+            </div>
+        </div>
+        
+    
+
+<!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+                        <!--product_images_5793_update--></div>
+                                    
+
+            </div>
+            <div class="ty-product-block__left">
+                                <form action="https://cscart410.parserok.pp.ua/" method="post" name="product_form_5793" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=5793" />
+<input type="hidden" name="product_data[5793][product_id]" value="5793" />
+
+
+                
+                                            <h1 class="ty-product-block-title" ><bdi>Бушлат военный  на искусственной овчине (44-60) "Pit" LM-959</bdi></h1>
+                    
+                    
+                        
+                            <div class="brand">
+                                
+
+
+                            </div>
+                        
+
+                    
+
+                
+
+
+                                                                                
+                
+                                
+
+
+                <div class="prices-container price-wrap">
+                                            <div class="ty-product-prices">
+                                        <span class="cm-reload-5793" id="old_price_update_5793">
+            
+                        
+
+        <!--old_price_update_5793--></span>
+                        
+                                            <div class="ty-product-block__price-actual">
+                                <span class="cm-reload-5793 ty-price-update" id="price_update_5793">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_5793"><bdi><span id="sec_discounted_price_5793" class="ty-price-num">660.00</span>&nbsp;<span class="ty-price-num">₴‎</span></bdi></span>
+                            
+
+                        <!--price_update_5793--></span>
+
+                        </div>
+                    
+                                                    
+                                        <span class="cm-reload-5793" id="line_discount_update_5793">
+            <input type="hidden" name="appearance[show_price_values]" value="1" />
+            <input type="hidden" name="appearance[show_list_discount]" value="1" />
+                    <!--line_discount_update_5793--></span>
+    
+                        </div>
+                                    </div>
+
+                                <div class="ty-product-block__option">
+                                                <div class="cm-reload-5793" id="product_options_update_5793">
+        <input type="hidden" name="appearance[show_product_options]" value="1" />
+        
+                                                        
+<input type="hidden" name="appearance[details_page]" value="1" />
+    <input type="hidden" name="additional_info[info_type]" value="D" />
+    <input type="hidden" name="additional_info[is_preview]" value="" />
+    <input type="hidden" name="additional_info[get_icon]" value="1" />
+    <input type="hidden" name="additional_info[get_detailed]" value="1" />
+    <input type="hidden" name="additional_info[get_additional]" value="" />
+    <input type="hidden" name="additional_info[get_options]" value="1" />
+    <input type="hidden" name="additional_info[get_discounts]" value="1" />
+    <input type="hidden" name="additional_info[get_features]" value="" />
+    <input type="hidden" name="additional_info[get_extra]" value="" />
+    <input type="hidden" name="additional_info[get_taxed_prices]" value="1" />
+    <input type="hidden" name="additional_info[get_for_one_product]" value="1" />
+    <input type="hidden" name="additional_info[detailed_params]" value="1" />
+    <input type="hidden" name="additional_info[features_display_on]" value="C" />
+    <input type="hidden" name="additional_info[get_variation_features_variants]" value="1" />
+    <input type="hidden" name="additional_info[get_variation_info]" value="1" />
+    <input type="hidden" name="additional_info[get_variation_name]" value="1" />
+    <input type="hidden" name="additional_info[get_product_type]" value="" />
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+        
+
+    <!--product_options_update_5793--></div>
+    
+                </div>
+                
+                <div class="ty-product-block__advanced-option clearfix">
+                                                                        <div class="cm-reload-5793" id="advanced_options_update_5793">
+                <div class="ty-control-group product-list-field">
+        
+            <label class="ty-control-group__label">Продавец:</label>
+            <span class="ty-control-group__item"><a href="https://cscart410.parserok.pp.ua/kardigan/">Kardigan</a></span>
+        
+                
+        <a title="Связаться с продавцом" href="https://cscart410.parserok.pp.ua/login/?return_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D5793"  data-ca-target-id="new_thread_login_form" class="cm-dialog-opener cm-dialog-auto-size ty-vendor-communication__post-write" rel="nofollow">
+            <i class="ty-icon-chat"></i>
+            Связаться с продавцом
+        </a>
+
+            
+
+    </div>
+
+            
+            
+<input type="hidden" name="appearance[dont_show_points]" value="" />
+    <div class="ty-reward-group product-list-field hidden">
+    <span class="ty-control-group__label">Бонусные баллы:</span>
+    <span class="ty-control-group__item" id="reward_points_5793"><bdi> баллов</bdi></span>
+</div>
+
+        <!--advanced_options_update_5793--></div>
+    
+                                    </div>
+
+                <div class="ty-product-block__sku">
+                                                    <div class="ty-control-group ty-sku-item cm-hidden-wrapper cm-reload-5793" id="sku_update_5793">
+            <input type="hidden" name="appearance[show_sku]" value="1" />
+                            <label class="ty-control-group__label" id="sku_5793">КОД:</label>
+                        <span class="ty-control-group__item">№H222282</span>
+        <!--sku_update_5793--></div>
+    
+                </div>
+
+                                <div class="ty-product-block__field-group">
+                                        
+    <div class="cm-reload-5793 stock-wrap" id="product_amount_update_5793">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Доступность:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_5793">
+                                                            Предзаказ
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_5793--></div>
+
+
+
+
+                                            
+        <div class="cm-reload-5793" id="qty_update_5793">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <div class="ty-qty clearfix changer" id="qty_5793">
+                <label class="ty-control-group__label" for="qty_count_5793">Кол-во:</label>                                <div class="ty-center ty-value-changer cm-value-changer">
+                                            <a class="cm-increase ty-value-changer__increase">&#43;</a>
+                                        <input  type="text" size="5" class="ty-value-changer__input cm-amount" id="qty_count_5793" name="product_data[5793][amount]" value="1" data-ca-min-qty="1" />
+                                            <a class="cm-decrease ty-value-changer__decrease">&minus;</a>
+                                    </div>
+                            </div>
+                            <!--qty_update_5793--></div>
+    
+
+
+
+                                            
+            
+
+
+                </div>
+                
+                                    
+
+                
+                                <div class="ty-product-block__button">
+                    
+                                        <div class="cm-reload-5793 " id="add_to_cart_update_5793">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="big" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+
+
+                    
+ 
+    <button id="button_cart_5793" class="ty-btn__primary ty-btn__big ty-btn__add-to-cart cm-form-dialog-closer ty-btn" type="submit" name="dispatch[checkout.add..5793]" >В корзину</button>
+
+
+    
+
+
+
+    
+
+    
+
+
+<a id="opener_call_request_5793" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://cscart410.parserok.pp.ua/index.php?dispatch=call_requests.request&amp;product_id=5793&amp;obj_prefix=" data-ca-target-id="content_call_request_5793"  data-ca-dialog-title="Купить в один клик" rel="nofollow"><span>Купить в один клик</span></a>
+
+<div class="hidden" id="content_call_request_5793" title="Купить в один клик">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_5793" data-ca-dispatch="dispatch[wishlist.add..5793]">Add to Wishlist</a>
+
+
+    
+            
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-compare cm-ajax cm-ajax-full-render text-button " href="https://cscart410.parserok.pp.ua/index.php?dispatch=product_features.add_product&amp;product_id=5793&amp;redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D5793" rel="nofollow" data-ca-target-id="comparison_list,account_info*">Добавить в список сравнения</a>
+
+
+
+
+
+<!--add_to_cart_update_5793--></div>
+
+
+                                        
+                </div>
+                
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="80ecf0d713c145a409c825323aa8d6d6" /></form>
+
+
+                
+
+                
+    <ul class="ty-social-buttons">
+                        <li class="ty-social-buttons__inline"><a href="https://twitter.com/share" class="twitter-share-button" data-lang="ru" data-size="medium" data-count="horizontal" data-url="https://cscart410.parserok.pp.ua/voennaya-odezhda-ekipirovka-dlya-ohoty-i-rybalki/kurtki-bushlaty/bushlat-voennyy-na-iskusstvennoy-ovchine-44-60-pit-lm-959/" >Tweet</a>
+<!-- Inline script moved to the bottom of the page -->
+</li>
+                                <li class="ty-social-buttons__inline"><div id="fb-root"></div>
+<div class="fb-like" data-lang="ru" data-layout="button_count" data-href="https://cscart410.parserok.pp.ua/voennaya-odezhda-ekipirovka-dlya-ohoty-i-rybalki/kurtki-bushlaty/bushlat-voennyy-na-iskusstvennoy-ovchine-44-60-pit-lm-959/" data-send="true" data-show-faces="false" data-action="like" data-font="arial" data-colorscheme="light" data-width="450" ></div>
+<!-- Inline script moved to the bottom of the page -->
+</li>
+                                            <li class="ty-social-buttons__inline"><span class="pinterest__wrapper">
+    <a href="//pinterest.com/pin/create/button/?url=https%3A%2F%2Fcscart410.parserok.pp.ua%2Fvoennaya-odezhda-ekipirovka-dlya-ohoty-i-rybalki%2Fkurtki-bushlaty%2Fbushlat-voennyy-na-iskusstvennoy-ovchine-44-60-pit-lm-959%2F&amp;media=https%3A%2F%2Fcscart410.parserok.pp.ua%2Fimages%2Fdetailed%2F8%2F1479067972_bushlat-voennyj-na.jpg&amp;description=%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B5%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%26amp%3Bquot%3B%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%3A%20%D1%82%D0%BA%D0%B0%D0%BD%D1%8C%20%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%3A%C2%A0%D0%BE%D0%B2%D1%87%D0%B8%D0%BD%D0%B0%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%0A%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D1%8B%3A%2044%2C46.48.50.52.54.56.58.60%0A%D0%A6%D0%B2%D0%B5%D1%82%20%D0%BA%D0%B0%D0%BA..." data-pin-do="buttonPin" data-pin-shape="rect" data-pin-height="20" data-pin-color="gray" ><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" alt="Pinterest"></a>
+</span>
+<!-- Inline script moved to the bottom of the page -->
+</li>
+                            </ul>
+
+
+                                
+
+                    
+                            </div>
+        
+    
+                        <div id="new_thread_login_form" class="hidden ty-vendor-communication-login" title="Войти">
+    <div class="ty-login-popup">
+        <h3>
+            Пожалуйста, войдите в свою учётную запись, чтобы связаться с продавцом
+        </h3>
+        
+
+        <form name="new_thread_login_form_popup_form" action="https://cscart410.parserok.pp.ua/" method="post">
+        <input type="hidden" name="return_url" value="index.php?dispatch=products.view&amp;product_id=5793" />
+        <input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=5793" />
+
+        
+        <div class="ty-control-group">
+            <label for="login_new_thread_login_form_popup" class="ty-login__filed-label ty-control-group__label cm-required cm-trim cm-email">E-mail</label>
+            <input type="text" id="login_new_thread_login_form_popup" name="user_login" size="30" value="" class="ty-login__input cm-focus" />
+        </div>
+
+        <div class="ty-control-group ty-password-forgot">
+            <label for="psw_new_thread_login_form_popup" class="ty-login__filed-label ty-control-group__label ty-password-forgot__label cm-required">Пароль</label><a href="https://cscart410.parserok.pp.ua/index.php?dispatch=auth.recover_password" class="ty-password-forgot__a"  tabindex="5">Забыли пароль?</a>
+            <input type="password" id="psw_new_thread_login_form_popup" name="password" size="30" value="" class="ty-login__input" maxlength="32" />
+        </div>
+
+                    <div class="ty-login-reglink ty-center">
+                <a class="ty-login-reglink__a" href="https://cscart410.parserok.pp.ua/profiles-add/" rel="nofollow">Создать учетную запись</a>
+            </div>
+        
+        
+
+        
+        
+            <div class="buttons-container clearfix">
+                <div class="ty-float-right">
+                        
+ 
+    <button  class="ty-btn__login ty-btn__secondary ty-btn" type="submit" name="dispatch[auth.login]" >Войти</button>
+
+
+                </div>
+                <div class="ty-login__remember-me">
+                    <label for="remember_me_new_thread_login_form_popup" class="ty-login__remember-me-label"><input class="checkbox" type="checkbox" name="remember_me" id="remember_me_new_thread_login_form_popup" value="Y" />Запомнить</label>
+                </div>
+            </div>
+        
+
+    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="80ecf0d713c145a409c825323aa8d6d6" /></form>
+
+
+    </div>
+</div>
+
+            
+    </div>
+
+    
+            
+            
+
+
+                                    
+
+<!-- Inline script moved to the bottom of the page -->
+<div class="ty-tabs cm-j-tabs clearfix">
+    <ul class="ty-tabs__list" >
+                                                        <li id="description" class="ty-tabs__item cm-js active"><a class="ty-tabs__a" >Описание</a></li>
+                                                                                        </ul>
+</div>
+
+<div class="cm-tabs-content ty-tabs__content clearfix" id="tabs_content">
+                            
+            
+                                        
+            <div id="content_description" class="ty-wysiwyg-content content-description">
+                                                    
+    <div ><p>Хорошее качество</p>"<p>Материал: ткань алова Подкладка: овчина искусственная</p>
+<p>Размеры: 44,46.48.50.52.54.56.58.60</p>
+<p>Цвет как на фото </p>
+<p>Страна производитель: Украина</p>
+<p><strong>Внимание!</strong> На сайте <strong>везде</strong> представлены оптовые цены. <strong>При оформлении заказа до 500 грн., для любой категории клиентов к общей стоимости заказа будет добавлена розничная наценка (+50 грн).</strong> Для приобретения товара без розничной наценки необходимо соблюсти два условия:</p>
+<ul>
+<li>сумма заказа должна быть более 500 грн;</li>
+<li>нужно заказать не менее 5 единиц из одного товарного раздела.</li>
+</ul>
+<p>Если данные условия не соблюдены - к общей стоимости заказа будет добавлена розничная наценка, которая указана в условиях сотрудничества, в разделе <a href="https://ukroptmarket.com.ua/cp60114-usloviya-sotrudnichestva.html#rovt" target="_blank">"<strong>Условия для розничных покупателей</strong>"</a>.</p>
+<p>Для более детальной информации ознакомьтесь с <a href="http://ukroptmarket.com.ua/cp60114-usloviya-sotrudnichestva.html" target="_blank">условиями сотрудничества нашей компании</a>.</p>
+<p align="center"><a href="https://invite.viber.com/?g2=AQApahxryp3tqEhqYl%2FAhM0ODFiqDG19v%2FFKUq5ujGkuYOBGZ4aSao3zDmFnMfNL" target="_blank"><img alt="" src="https://my.prom.ua/media/images/1309743923_w100_h100_viber_logo_37_fon.png" style="width:81px;height:37px;float:center;margin:0px 3px 0px 0px"/><span style="font-size:22px;color:#67358e">Подписывайтесь на наше Viber сообщество</span></a><br/>
+<a href="https://t.me/ukroptmarket" target="_blank"><img alt="" src="https://my.prom.ua/media/images/1309743950_w100_h100_telega_37.png" style="width:37px;height:37px;float:center;margin:0px 3px 0px 0px"/><span style="font-size:22px;color:#3c92df">Подписывайтесь на наш Telegram канал</span></a></p>
+<p align="center"><span style="font-size:20px">♦♦♦ Общайтесь с нами <strong>вживую</strong> в Ваших любимых мессенджерах и узнавайте о новинках <strong>первыми! </strong>♦♦♦</span></p></div>
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_features" class="ty-wysiwyg-content content-features">
+                                                    
+
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_files" class="ty-wysiwyg-content content-files">
+                                                    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_tags" class="ty-wysiwyg-content content-tags">
+                                                    
+    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_attachments" class="ty-wysiwyg-content content-attachments">
+                                                    
+
+                            
+            </div>
+                                            
+            
+            
+            <div id="content_discussion" class="ty-wysiwyg-content content-discussion">
+                                                    
+
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_required_products" class="ty-wysiwyg-content content-required_products">
+                                                    
+
+                            
+            </div>
+            
+</div>
+
+
+
+                    
+
+    </div>
+
+<div class="product-details">
+</div>
+
+
+
+
+    ";}s:6:"expiry";i:0;}

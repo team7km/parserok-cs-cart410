@@ -1,0 +1,29 @@
+{
+    "remotePath": "./www/",
+    "host": "195.16.88.170",
+    "username": "user01",
+    "password": "buuqu2LD",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.todo",
+        "\\.DS_Store",
+        "\\.PSD"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}

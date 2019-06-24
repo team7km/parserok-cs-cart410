@@ -1,0 +1,392 @@
+{
+    "general": {
+        "fields": {
+            "google_fonts": {
+                "description": "theme_editor.google_fonts",
+                "type": "checkbox",
+                "true": "true",
+                "false": "false"
+            },
+            "font_awesome": {
+                "description": "theme_editor.font_awesome",
+                "type": "checkbox",
+                "true": "true",
+                "false": "false"
+            },
+            "cookie_law": {
+                "description": "theme_editor.cookie_law",
+                "type": "selectbox",
+                "properties": {
+                    "values": {
+                        "off":"Off",
+                        "bottom":"Bottom full width",
+                        "boxleft":"Box left",
+                        "boxright":"Box right"
+                    }
+                }
+            },
+            "scroll_up": {
+                "description": "theme_editor.scroll_up",
+                "type": "selectbox",
+                "properties": {
+                    "values": {
+                        "off":"Off",
+                        "alignleft":"Left",
+                        "alignright":"Right"
+                    }
+                }
+            },
+            "sticky_menu": {
+                "description": "theme_editor.sticky_menu",
+                "type": "selectbox",
+                "properties": {
+                    "values": {
+                        "off":"Off",
+                        "menubar":"Menu bar",
+                        "searchbar":"Search and cart bar"
+                    }
+                }
+            },
+            "brand_page_image": {
+                "description": "theme_editor.brand_page_image",
+                "type": "checkbox",
+                "true": "true",
+                "false": "false"
+            },
+            "show_dropdown_homepage": {
+                "description": "theme_editor.show_dropdown_homepage",
+                "type": "checkbox",
+                "true": "true",
+                "false": "false"
+            },
+            "show_mega_menu_category_images": {
+                "description": "theme_editor.show_mega_menu_category_images",
+                "type": "checkbox",
+                "true": "true",
+                "false": "false"
+            },
+            "scroll_animations": {
+                "description": "theme_editor.scroll_animations",
+                "type": "checkbox",
+                "true": "true",
+                "false": "false"
+            },
+            "carousel_scroll_animations_style": {
+                "description": "theme_editor.product_carousel_scroll_animations_style",
+                "type": "selectbox",
+                "properties": {
+                    "values": {
+                        "off":"Off",
+                        "scale":"Scale",
+                        "fadeLeftRight":"Fade in from left to right =>",
+                        "fadeRightLeft":"Fade in from right to left <=",
+                        "fadeUp":"Fade in from below",
+                        "fadeDown":"Fade in from above"
+                    }
+                }
+            },
+            "auto_scroll_animations": {
+                "description": "theme_editor.auto_scroll_animations",
+                "type": "checkbox",
+                "true": "true",
+                "false": "false"
+            },
+            "auto_scroller_animations_style": {
+                "description": "theme_editor.auto_scroller_animations_style",
+                "type": "selectbox",
+                "properties": {
+                    "values": {
+                        "scaleup":"Scale",
+                        "fade":"Fade",
+                        "godown":"Come Down",
+                        "backslide":"Slide"
+                    }
+                }
+            }
+        },
+        "vendor_can_edit": false
+    },
+    "colors": {
+        "fields": {
+            "top_panel_links": {
+                "description": "theme_editor.top_panel_links"
+            },
+            "top_panel_links_hover_active": {
+                "description": "theme_editor.top_panel_links_hover_active"
+            },
+            "top_panel_text": {
+                "description": "theme_editor.top_panel_text"
+            },
+            "decorative": {
+                "description": "theme_editor.decorative_color"
+            },
+            "primary_button": {
+                "description": "theme_editor.primary_button"
+            },
+            "secondary_button": {
+                "description": "theme_editor.secondary_button"
+            },
+            "tertiary_button": {
+                "description": "theme_editor.tertiary_button"
+            },            
+            "links": {
+                "description": "theme_editor.link_color"
+            },
+            "menu_links": {
+                "description": "theme_editor.menu_links_color"
+            },
+            "menu_links_hover": {
+                "description": "theme_editor.menu_links_hover"
+            },
+            "menu_category": {
+                "description": "theme_editor.category_menu_bkg"
+            },
+            "menu_horizontal_background": {
+                "description": "theme_editor.category_menu_horizontal_background"
+            },
+            "menu_horizontal_decoration": {
+                "description": "theme_editor.category_menu_horizontal_decoration"
+            },
+            "menu_horizontal_decoration_text": {
+                "description": "theme_editor.category_menu_horizontal_decoration_text"
+            },
+            "menu_horizontal_decoration_text_hover": {
+                "description": "theme_editor.category_menu_horizontal_decoration_text_hover"
+            },
+            "menu_expand_links": {
+                "description": "theme_editor.category_menu_expand_links"
+            },
+            "menu_expand_links_hover": {
+                "description": "theme_editor.category_menu_expand_links_hover"
+            },
+            "menu_link_1": {
+                "description": "theme_editor.menu_link_1_background"
+            },
+            "menu_link_2": {
+                "description": "theme_editor.menu_link_2_background"
+            },
+            "menu_link_3": {
+                "description": "theme_editor.menu_link_3_background"
+            },
+            "menu_link_4": {
+                "description": "theme_editor.menu_link_4_background"
+            },
+            "menu_link_5": {
+                "description": "theme_editor.menu_link_5_background"
+            },
+            "menu_link_6": {
+                "description": "theme_editor.menu_link_6_background"
+            },
+            "menu_link_7": {
+                "description": "theme_editor.menu_link_7_background"
+            },
+            "block_titles": {
+                "description": "theme_editor.block_titles"
+            },
+            "grid_info_background": {
+                "description": "theme_editor.grid_info_background"
+            },
+            "discount_label": {
+                "description": "theme_editor.discount_label"
+            },
+            "discount_label_text": {
+                "description": "theme_editor.discount_label_text"
+            },
+            "price": {
+                "description": "theme_editor.price"
+            },
+            "list-price": {
+                "description": "theme_editor.list-price"
+            },
+            "product_title_link": {
+                "description": "theme_editor.product_title_link"
+            },
+            "rating_icons": {
+                "description": "theme_editor.rating_icons"
+            },
+            "grid_icon": {
+                "description": "theme_editor.grid_icon"
+            },
+            "grid_icon_quick_view_bkg": {
+                "description": "theme_editor.grid_icon_quick_view_bkg"
+            },
+            "grid_icon_add_wishlist_bkg": {
+                "description": "theme_editor.grid_icon_add_wishlist_bkg"
+            },
+            "grid_icon_add_to_compare_bkg": {
+                "description": "theme_editor.grid_icon_add_to_compare_bkg"
+            },
+            "grid_icon_add_to_cart_bkg": {
+                "description": "theme_editor.grid_icon_add_to_cart_bkg"
+            },            
+            "base": {
+                "description": "theme_editor.base_color"
+            },
+            "font": {
+                "description": "theme_editor.font_color"
+            },
+            "sidebar": {
+                "description": "theme_editor.sidebar"
+            },
+            "in_stock": {
+                "description": "theme_editor.in_stock"
+            },
+            "out_of_stock": {
+                "description": "theme_editor.out_of_stock"
+            },
+            "footer_text": {
+                "description": "theme_editor.footer_text"
+            }
+        },
+        "vendor_can_edit": true
+    },
+    "fonts": {
+        "families": {
+            "Arial,Helvetica,sans-serif": "Arial",
+            "Arial Black,Gadget,sans-serif": "Arial Black",
+            "Comic Sans MS,cursive": "Comic Sans MS",
+            "Courier New,Courier,monospace": "Courier New",
+            "Georgia,serif": "Georgia",
+            "Impact,Charcoal,sans-serif": "Impact",
+            "Lucida Console,Monaco,monospace": "Lucida Console",
+            "Lucida Sans Unicode,Lucida Grande,sans-serif": "Lucida Sans Unicode",
+            "Palatino Linotype,Book Antiqua,Palatino,serif": "Palatino Linotype",
+            "Tahoma,Geneva,sans-serif": "Tahoma",
+            "Times New Roman,Times,serif": "Times New Roman",
+            "Trebuchet MS,Helvetica,sans-serif": "Trebuchet MS",
+            "Verdana,Geneva,sans-serif": "Verdana",
+            "Gill Sans,Geneva,sans-serif": "Gill Sans"
+        },
+        "fields": {
+            "te_font_two": {
+                "description": "theme_editor.te_font_one"
+            },
+            "te_font_one": {
+                "description": "theme_editor.te_font_two"
+            }
+        },
+        "vendor_can_edit": true
+    },
+    "backgrounds": {
+        "fields": {
+            "general_bg": {
+                "description": "theme_editor.general_bg",
+                "properties": {
+                    "color": {
+                        "enable": true,
+                        "match": "general_bg_color"
+                    },
+                    "pattern": "general_bg_image",
+                    "position": "general_bg_position",
+                    "repeat": "general_bg_repeat",
+                    "attachment": "general_bg_scroll"
+                }
+            },
+            "top_panel_bg": {
+                "description": "theme_editor.top_panel",
+                "properties": {
+                    "color": {
+                        "enable": true,
+                        "match": "top_panel_bg"
+                    },
+                    "pattern": false,
+                    "position": false,
+                    "repeat": false,
+                    "attachment": false
+                },
+                "full_width": {
+                    "type": "checkbox",
+                    "true": "true",
+                    "false": "false",
+                    "match": "top_panel_bg_full"
+                },
+                "transparent": {
+                    "match": "top_panel_bg_transparent"
+                },
+                "gradient": {
+                    "match": "top_panel_bg_grad_stop"
+                }
+            },
+            "header_bg": {
+                "description": "theme_editor.header",
+                "properties": {
+                    "color": {
+                        "enable": true,
+                        "match": "header_bg"
+                    },
+                    "pattern": false,
+                    "position": false,
+                    "repeat": false,
+                    "attachment": false
+                },
+                
+                "full_width": {
+                    "type": "checkbox",
+                    "true": "true",
+                    "false": "false",
+                    "match": "header_bg_full"
+                },
+                "transparent": {
+                    "match": "header_bg_transparent"
+                },
+                "gradient": {
+                    "match": "header_bg_grad_stop"
+                }
+            },
+            "content_bg": {
+                "description": "theme_editor.content_bg",
+                "properties": {
+                    "color": {
+                        "enable": true,
+                        "match": "content_bg"
+                    },
+                    "pattern": false,
+                    "position": false,
+                    "repeat": false,
+                    "attachment": false
+                },
+                "full_width": {
+                    "type": "checkbox",
+                    "true": "true",
+                    "false": "false",
+                    "match": "content_bg_full"
+                },
+                "transparent": {
+                    "match": "content_bg_transparent"
+                }
+            },
+            "footer_bg": {
+                "description": "theme_editor.footer",
+                "properties": {
+                    "color": {
+                        "enable": true,
+                        "match": "footer_bg"
+                    },
+                    "pattern": false,
+                    "position": false,
+                    "repeat": false,
+                    "attachment": false
+                },
+                "full_width": {
+                    "type": "checkbox",
+                    "true": "true",
+                    "false": "false",
+                    "match": "footer_bg_full"
+                },
+                "transparent": {
+                    "match": "footer_bg_transparent"
+                },
+                "gradient": {
+                    "match": "footer_bg_grad_stop"
+                }
+            }
+        },
+        "vendor_can_edit": true
+    },
+    "css": {
+        "fields": {
+
+        },
+        "vendor_can_edit": true
+    }
+}

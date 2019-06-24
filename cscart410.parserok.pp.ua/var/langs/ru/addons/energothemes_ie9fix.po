@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::energothemes_ie9fix"
+msgid "EnergoThemes - IE 9 FIX"
+msgstr "EnergoThemes - IE 9 FIX"
+
+msgctxt "Addons::description::energothemes_ie9fix"
+msgid "EnergoThemes IE 9 CSS fix that bypases the 4095 rules limit (http://support.microsoft.com/kb/262161). It also comes with the browser-update.org script notifying IE 9 and below users to upgrade."
+msgstr "EnergoThemes IE 9 CSS fix that bypases the 4095 rules limit (http://support.microsoft.com/kb/262161). It also comes with the browser-update.org script notifying IE 9 and below users to upgrade."
+

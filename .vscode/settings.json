@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "todo.colors.comment": "#9eef13",
+    "files.associations": {
+        "*.twig": "html"
+    }
+}

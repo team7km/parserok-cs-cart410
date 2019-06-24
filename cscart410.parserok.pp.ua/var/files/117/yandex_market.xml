@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2019-06-16 09:50">
+  <shop>
+    <name>Интернет магазин "UKROPTMARKET" 7 км</name>
+    <company>Интернет магазин "UKROPTMARKET" 7 км</company>
+    <url>https://ukroptmarket.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="27.8"/>
+      <currency id="RUR" rate="1"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="1"/>
+      <currency id="KZT" rate="1"/>
+      <currency id="EUR" rate="30.35960742"/>
+    </currencies>
+    <categories>
+      <category id="68188776" parentId="6105294">Школьные, дорожные рюкзаки " Twinkle "</category>
+      <category id="68188443" parentId="4488887">Женские сумки "Barista"</category>
+      <category id="68187633" parentId="6105294">Школьные рюкзаки "Child" </category>
+      <category id="68187619" parentId="6105294">Школьные рюкзаки "Paradox" оптом</category>
+      <category id="67110681" parentId="6107827">Городские рюкзаки и дорожные сумки "Enigma"</category>
+      <category id="67110682" parentId="6105294">Школьные рюкзаки "Enigma"</category>
+      <category id="67110680" parentId="28896152">Женские рюкзаки "Enigma"</category>
+      <category id="67110663" parentId="4488887">Сумки женские "Enigma"</category>
+      <category id="32789855" parentId="6107827">Городские рюкзаки "LUXE"</category>
+      <category id="7287013" parentId="6107827">Дорожные, спортивные сумки и рюкзаки "Orbita"</category>
+      <category id="28907242" parentId="28896152">Женские рюкзаки серии "LUXE"</category>
+      <category id="7055442" parentId="4488887">Сумки женские "LUXE"</category>
+      <category id="29016280" parentId="1196569">Детские свитшоты, батники оптом</category>
+      <category id="24440837" parentId="1196569">Детские свитера оптом</category>
+      <category id="16089928" parentId="1196569">Детские шорты капри бриджи оптом</category>
+      <category id="4489808" parentId="1196569">Детские футболки и майки оптом</category>
+      <category id="22233874" parentId="1196569">Школьная одежда оптом</category>
+      <category id="15709658" parentId="1196569">Детские карнавальные костюмы оптом</category>
+      <category id="14928432" parentId="1196569">Детская верхняя одежда оптом</category>
+      <category id="7874496" parentId="1196569">Детские бальные платья оптом</category>
+      <category id="14928461" parentId="1196569">Детская одежда для сна оптом</category>
+      <category id="4489817" parentId="1196569">Детские кофты оптом</category>
+      <category id="28952651" parentId="1196569">Детские водолазки оптом</category>
+      <category id="16086684" parentId="1196569">Детские туники оптом</category>
+      <category id="4489824" parentId="1196569">Детские лосины оптом</category>
+      <category id="16136329" parentId="1196569">Детские штаны оптом</category>
+      <category id="16084728" parentId="1196569">Детские юбки оптом</category>
+      <category id="16564872" parentId="1196569">Одежда для новорожденных оптом</category>
+      <category id="4489835" parentId="1196569">Детские костюмы оптом</category>
+      <category id="12999156" parentId="1196569">Детские летние костюмы оптом </category>
+      <category id="14928403" parentId="1196569">Детские купальники оптом</category>
+      <category id="16086437" parentId="1196569">Детские платья оптом</category>
+      <category id="2773686" parentId="1196569">Детская спортивная одежда оптом</category>
+      <category id="4489906" parentId="1196569">Детские рубашки оптом</category>
+      <category id="16866717" parentId="1196564">Мужская летняя одежда оптом</category>
+      <category id="16866716" parentId="1196564">Мужская демисезонная одежда оптом</category>
+      <category id="26444256" parentId="1196567">Женские пиджаки и болеро оптом</category>
+      <category id="16912147" parentId="1196567">Женская верхняя одежда оптом</category>
+      <category id="7870977" parentId="1196567">Женское белье оптом</category>
+      <category id="4489090" parentId="1196567">Женские юбки оптом</category>
+      <category id="16912141" parentId="1196567">Женские брюки и лосины оптом</category>
+      <category id="26455809" parentId="1196567">Женские боди оптом</category>
+      <category id="25432118" parentId="1196567">Женские водолазки и гольфы оптом</category>
+      <category id="22875585" parentId="1196567">Женские платья оптом</category>
+      <category id="26463811" parentId="1196567">Женские комбинезоны оптом</category>
+      <category id="30073555" parentId="4522563">Кеды мужские оптом</category>
+      <category id="16742746" parentId="4522563">Мокасины мужские оптом</category>
+      <category id="16742728" parentId="4522563">Слипоны мужские оптом</category>
+      <category id="16740803" parentId="4522563">Ботинки мужские оптом</category>
+      <category id="31642353" parentId="4522563">Спортивная мужская обувь оптом</category>
+      <category id="16742716" parentId="4522563">Мужская летняя обувь оптом</category>
+      <category id="16742129" parentId="4522563">Мужская обувь весна-осень оптом</category>
+      <category id="16778903" parentId="4522563">Мужская домашняя обувь оптом</category>
+      <category id="16742520" parentId="4522563">Туфли мужские оптом</category>
+      <category id="16742750" parentId="4522563">Шлепанцы мужские оптом</category>
+      <category id="16742737" parentId="4522563">Сандалии мужские оптом</category>
+      <category id="16714752" parentId="4511397">Туфли детские оптом</category>
+      <category id="16692214" parentId="4511397">Мокасины детские оптом</category>
+      <category id="31642354" parentId="4511397">Детские чешки Оптом</category>
+      <category id="16688707" parentId="4511397">Угги детские оптом</category>
+      <category id="16714819" parentId="4511397">Сапоги детские оптом</category>
+      <category id="16714762" parentId="4511397">Ботинки детские оптом</category>
+      <category id="16692823" parentId="4511397">Балетки детские оптом</category>
+      <category id="16714855" parentId="4511397">Сникерсы детские оптом</category>
+      <category id="16692658" parentId="4511397">Кеды детские оптом</category>
+      <category id="16692267" parentId="4511397">Слипоны детские оптом</category>
+      <category id="16692817" parentId="4511397">Босоножки детские оптом</category>
+      <category id="16692820" parentId="4511397">Шлепанцы детские оптом</category>
+      <category id="14517051">ГОЛОВНЫЕ УБОРЫ ОПТОМ</category>
+      <category id="60974024" parentId="4015296">Шляпы женские</category>
+      <category id="60973123" parentId="60946718">Женские шляпы</category>
+      <category id="60979407" parentId="4015296">Панамы для детей и подростков оптом</category>
+      <category id="60946718">Шляпы женские</category>
+      <category id="46699123" parentId="15709658">Карвальные национальные костюмы</category>
+      <category id="46698838" parentId="15709658">Карнавальные костюмы Супергероев оптом</category>
+      <category id="46697745" parentId="15709658">Карнавальные костюмы Прицессы Дисней</category>
+      <category id="35029471" parentId="51963841">ПЛАТКИ ЖЕНСКИЕ ОПТОМ</category>
+      <category id="31137714" parentId="6200299">Сумки и портфели мужские  "Buvard"</category>
+      <category id="30392534" parentId="6042163">Кошельки женские "E&amp;Y"</category>
+      <category id="21390309" parentId="6200299">Мужские сумочки серии "Mango"</category>
+      <category id="14516009">СУМКИ КОШЕЛЬКИ РЮКЗАКИ ОПТОМ</category>
+      <category id="9762552" parentId="9762544">Мужские носовые платки оптом</category>
+      <category id="9350411" parentId="9350395">Оборудование для уличной торговли</category>
+      <category id="9350399" parentId="9350395">Зеркала</category>
+      <category id="8341042" parentId="4488887">Сумки женские серия "Barbaris" оптом</category>
+      <category id="6502461" parentId="1211080">Детские ремни пояса оптом</category>
+      <category id="26027652" parentId="4488887">Сумки женские серия "David Polo" оптом</category>
+      <category id="24596645" parentId="4567736">Джинсы женские теплые на зиму</category>
+      <category id="24012752">КОСМЕТИКА В РОЗНИЦУ И ОПТОМ</category>
+      <category id="22199211" parentId="16091727">Зимние джинсы на девочку оптом</category>
+      <category id="16743529" parentId="4108852">Туфли женские оптом</category>
+      <category id="9515191" parentId="6107827">Рюкзаки, чемоданы, дорожные и спортивные сумки "Ostin"</category>
+      <category id="9350395">ТОРГОВОЕ ОБОРУДОВАНИЕ  В РОЗНИЦУ И ОПТОМ</category>
+      <category id="6450885" parentId="4488887">Сумки женские серия "Shkolnik" оптом</category>
+      <category id="4489162" parentId="16912141">Летние женские брюки оптом</category>
+      <category id="4015296" parentId="14517051">КЕПКИ, БЕЙСБОЛКИ И ПАНАМЫ ОПТОМ</category>
+      <category id="28931341" parentId="6105294">Школьные стильные рюкзаки серии "David Polo"</category>
+      <category id="12736861" parentId="6105294">Рюкзаки и сумки школьные, женские сумки "Mario" оптом</category>
+      <category id="17249569" parentId="6105294">Школьные рюкзаки "Prestige" оптом</category>
+      <category id="7538081" parentId="6105294">Школьные рюкзаки и сумки "Vay"</category>
+      <category id="6130024" parentId="6105294">Рюкзак школьный "Ostin" оптом</category>
+      <category id="43294893" parentId="6107827">Дорожные сумки, рюкзаки "Superbag"</category>
+      <category id="27330942" parentId="6107827">Рюкзаки, дорожные сумки "David Polo" оптом</category>
+      <category id="26764902" parentId="6107827">Рюкзаки, дорожные и спортивные сумки серии "Luna"</category>
+      <category id="21390312" parentId="6107827">Рюкзаки, сумки серии "Barbaris-1"</category>
+      <category id="14534900" parentId="6107827">Рюкзаки туристические серия "Lider"</category>
+      <category id="11033169" parentId="6107827">Рюкзаки женские серии "Little Pigeon"</category>
+      <category id="9344484" parentId="6107827">Дорожные сумки, рюкзаки и чемоданы "Gold"</category>
+      <category id="7508288" parentId="6107827">Дорожные сумки, чемоданы и рюкзаки серия "Barbaris-1"</category>
+      <category id="7470482" parentId="6107827">Дорожные, спортивные сумки и рюкзаки "Doroga"</category>
+      <category id="6107827" parentId="14516009">РЮКЗАКИ И ДОРОЖНЫЕ СПОРТИВНЫЕ СУМКИ ОПТОМ</category>
+      <category id="10974468" parentId="6107827">Рюкзаки женские серии "Barcelona"</category>
+      <category id="8070707" parentId="6107827">Дорожные сумки, чемоданы и рюкзаки серия "Vay"</category>
+      <category id="20408965" parentId="6200299">Мужские сумки серия "Bosco" оптом</category>
+      <category id="11060302" parentId="6200299">Сумки мужские серия "Barbaris-1" оптом</category>
+      <category id="9515921" parentId="6200299">Сумки мужские "Ostin" оптом</category>
+      <category id="8055843" parentId="6200299">Сумки мужские серия "Vay" оптом</category>
+      <category id="6356371" parentId="6200299">Сумки мужские серия "Bagson" оптом</category>
+      <category id="6200307" parentId="6200299">Сумки мужские серия "Melisa" оптом</category>
+      <category id="6200299" parentId="14516009">СУМКИ МУЖСКИЕ ОПТОМ</category>
+      <category id="26768543" parentId="6200299">Сумки мужские серия "Serbah"</category>
+      <category id="28899278" parentId="28896152">Женские модные рюкзаки серии "Serbah"</category>
+      <category id="28899466" parentId="28896152">Женские стильные рюкзаки серии "David Polo"</category>
+      <category id="19852300" parentId="28896152">Рюкзаки женские "Barbaris"</category>
+      <category id="16887987" parentId="6200299">Сумки мужские "Gold" оптом</category>
+      <category id="6044233" parentId="4488887">Сумки женские серия "Lucky bags" оптом</category>
+      <category id="14221165" parentId="4488887">Сумки женские серия "Kiss Me" оптом</category>
+      <category id="28529682" parentId="4488887">Сумки женские "WeLassie"</category>
+      <category id="4929547" parentId="4488887">Сумки женские серия L&amp;L" оптом</category>
+      <category id="55291621" parentId="4488887">Женские сумки и клатчи "My Legend"</category>
+      <category id="6152744" parentId="4488887">Сумки женские "E&amp;Y" оптом</category>
+      <category id="21800160" parentId="4488887">Пляжные сумки</category>
+      <category id="13597445" parentId="4488887">Сумки женские серии "Favorit" оптом</category>
+      <category id="9514358" parentId="4488887">Сумки женские "Ostin" оптом</category>
+      <category id="8066794" parentId="4488887">Сумки женские "Vay" оптом</category>
+      <category id="7345747" parentId="4488887">Сумки женские "Melisa" оптом</category>
+      <category id="7293957" parentId="4488887">Сумки женские "Orbita" оптом</category>
+      <category id="26517096" parentId="4488887">Сумки женские серии "MilanaShop"</category>
+      <category id="26024671" parentId="4488887">Cумки женские серии "Little Pigeon"</category>
+      <category id="18969624" parentId="4488887">Сумки женские "Ameli"</category>
+      <category id="16755379" parentId="4108852">Шлепанцы женские оптом</category>
+      <category id="16743687" parentId="4108852">Сапоги женские оптом</category>
+      <category id="16743674" parentId="30043334">Кроссовки женские оптом</category>
+      <category id="16742710" parentId="16742129">Обувь мужская для НЕПОГОДЫ оптом</category>
+      <category id="4108852" parentId="14516916">ОБУВЬ ЖЕНСКАЯ ОПТОМ</category>
+      <category id="14516916">ОБУВЬ ОПТОМ</category>
+      <category id="4522563" parentId="14516916">ОБУВЬ МУЖСКАЯ ОПТОМ</category>
+      <category id="16892789" parentId="16884002">Мужские зимние спортивные батники оптом</category>
+      <category id="16892784" parentId="16884002">Мужские зимние спортивные штаны оптом</category>
+      <category id="16892741" parentId="16884002">Мужские зимние спортивные костюмы оптом</category>
+      <category id="16884002" parentId="16866596">Мужская зимняя спортивная одежда оптом</category>
+      <category id="4489272" parentId="16866596">Мужские зимние кофты свитера батники оптом </category>
+      <category id="22094970" parentId="16866717">Мужские летние рубашки оптом</category>
+      <category id="4571398" parentId="16866717">Плавки мужские оптом</category>
+      <category id="4489287" parentId="4489282">Мужские рубашки с коротким рукавом (трансформер)</category>
+      <category id="4489291" parentId="4489282">Мужские рубашки с длинным рукавом</category>
+      <category id="23330034" parentId="16866716">Мужские демисезонные батники оптом</category>
+      <category id="18830804" parentId="16866716">Мужские кофты и свитера демисезонные оптом </category>
+      <category id="16867287" parentId="16866716">Мужские куртки жилетки ветровки демисезонные </category>
+      <category id="4489282" parentId="16866716">Рубашки мужские оптом</category>
+      <category id="25386305" parentId="16912147">Женские пальто оптом</category>
+      <category id="25386267" parentId="16912147">Женские жилетки оптом</category>
+      <category id="4549825" parentId="16912147">Женские шубы оптом</category>
+      <category id="4489166" parentId="16912147">Женские куртки оптом</category>
+      <category id="26033575" parentId="4762109">Женские свитера оптом</category>
+      <category id="25440731" parentId="4762109">Женские вязаные жилетки</category>
+      <category id="6330311" parentId="4762109">Женские кардиганы оптом</category>
+      <category id="25454475" parentId="16921500">Женские толстовки оптом</category>
+      <category id="25432128" parentId="16921500">Женские регланы оптом</category>
+      <category id="14563346" parentId="6044097">Кошельки мужские "Gold"</category>
+      <category id="7134477" parentId="6042163">Кошельки женские серия "Gold" </category>
+      <category id="6229301" parentId="6042163">Кошельки женские серия "Bagson"</category>
+      <category id="6042163" parentId="2946897">Кошельки женские оптом</category>
+      <category id="2946897" parentId="14516009">КОШЕЛЬКИ МУЖСКИЕ И ЖЕНСКИЕ ОПТОМ</category>
+      <category id="9412933" parentId="2946897">Кошельки детские оптом</category>
+      <category id="7315572" parentId="6042163">Кошельки женские серия "Orbita" </category>
+      <category id="7014475" parentId="6044097">Кошельки мужские серия "Bosco"</category>
+      <category id="6044097" parentId="2946897">Кошельки мужские оптом</category>
+      <category id="14824268" parentId="14516009">ШКАТУЛКИ И КОСМЕТИЧКИ ОПТОМ</category>
+      <category id="7777458" parentId="4488887">Сумки женские "Barbaris-1" оптом</category>
+      <category id="6887844" parentId="4488887">Женские сумки "Gold" оптом</category>
+      <category id="9314424" parentId="4488887">Сумки женские "Gala" оптом</category>
+      <category id="19089230" parentId="4488887">Сумки женские "Жасмин"</category>
+      <category id="24892716">САЛЮТЫ И ФЕЙЕРВЕРКИ ОПТОМ И В РОЗНИЦУ</category>
+      <category id="24803904">РАСПРОДАЖА</category>
+      <category id="16870097">СПЕЦОДЕЖДА РАБОЧАЯ ОДЕЖДА ОПТОМ</category>
+      <category id="6025633">ВОЕННАЯ ОДЕЖДА ЭКИПИРОВКА ДЛЯ ОХОТЫ И РЫБАЛКИ</category>
+      <category id="6486012">УКРАИНСКАЯ ТЕМАТИКА</category>
+      <category id="14513323">ОДЕЖДА ОПТОМ</category>
+      <category id="16755385" parentId="4108852">Обувь для непогоды  оптом</category>
+      <category id="11057488" parentId="6107827">Рюкзаки городские серии "Student"</category>
+      <category id="26764569" parentId="4488887">Сумки женские "Serbah" оптом</category>
+      <category id="5165999" parentId="4488887">Сумки женские "Auris"</category>
+      <category id="16912148" parentId="1196567">Летняя женская одежда оптом</category>
+      <category id="34169598" parentId="6107827">Дорожные сумки, рюкзаки"Kipling"</category>
+      <category id="15523607" parentId="51963841">ВИЗИТНИЦЫ КЛЮЧНИЦЫ ОПТОМ</category>
+      <category id="14927587" parentId="51963841">ПОДТЯЖКИ ГАЛСТУКИ БАБОЧКИ ОПТОМ</category>
+      <category id="35029513" parentId="51963841">ПАЛАНТИНЫ ЖЕНСКИЕ ОПТОМ</category>
+      <category id="40399759" parentId="24803904">Подписка на Viber-сообщество</category>
+      <category id="14826095" parentId="24803904">Мужская одежда распродажа</category>
+      <category id="14826090" parentId="24803904">Женская одежда распродажа</category>
+      <category id="25011685" parentId="24892716">Фейерверки 49-90 зарядов оптом и в розницу</category>
+      <category id="24963753" parentId="24892716">Ракеты оптом и в розницу</category>
+      <category id="24961037" parentId="24892716">Петарды Шутихи оптом и в розницу</category>
+      <category id="24979911" parentId="24892716">Римские свечи оптом и в розницу</category>
+      <category id="24980616" parentId="24892716">Фейерверки с 7-19 зарядов оптом и в розницу</category>
+      <category id="25007332" parentId="24892716">Фейерверки 20-25 зарядов оптом и в розницу</category>
+      <category id="25007674" parentId="24892716">Фейерверк 30-36 зарядов оптом и в розницу</category>
+      <category id="25127290" parentId="24892716">Минометы и профессиональная пиротехника оптом и в розницу</category>
+      <category id="25055249" parentId="24892716">Фейерверки 100-600 зарядов оптом и в розницу</category>
+      <category id="24961974" parentId="24892716">Фонтаны и сценическая пиротехника оптом и в розницу</category>
+      <category id="16870121" parentId="16870097">Одежда общепит</category>
+      <category id="16870110" parentId="16870097">Одежда медицинская</category>
+      <category id="24021042" parentId="24013051">ГЕЛЬ-ЛАКИ MY NAIL</category>
+      <category id="24021049" parentId="24013051">ГЕЛЬ-ЛАКИ OXXI PROFESSIONAL</category>
+      <category id="24021131" parentId="24013051">ГЕЛЬ-ЛАКИ KODI PROFESSIONAL</category>
+      <category id="24021136" parentId="24013051">ГЕЛЬ-ЛАКИ TERTIO</category>
+      <category id="24021517" parentId="24015185">ГЕЛЬ-КРАСКИ СОСО</category>
+      <category id="24021673" parentId="24015299">КАМНИ ДЛЯ ДЕКОРА НОГТЕЙ</category>
+      <category id="24021687" parentId="24015299">РАЗЛИЧНЫЕ НАКЛЕЙКИ ДЛЯ НОГТЕЙ</category>
+      <category id="24021694" parentId="24015299">НОВОГОДНИЙ ДИЗАЙН НОГТЕЙ</category>
+      <category id="24021702" parentId="24015299">СЛАЙДЕР-ДИЗАЙН</category>
+      <category id="24021707" parentId="24015299">ФОЛЬГА БИТОЕ СТЕКЛО</category>
+      <category id="24021714" parentId="24015299">ТРАФАРЕТЫ</category>
+      <category id="24021717" parentId="24015299">КАМИФУБУКИ В БАНОЧКЕ</category>
+      <category id="24021744" parentId="24015299">ВТИРКА MELANGE</category>
+      <category id="24021758" parentId="24015299">РОМБИКИ ДЛЯ ДЕКОРА</category>
+      <category id="24021747" parentId="24015299">НАБОРЫ УКРАШЕНИЙ ДЛЯ НОГТЕЙ</category>
+      <category id="24021704" parentId="24015299">ПИГМЕНТ "ХЛОПЬЯ ЮКИ"</category>
+      <category id="51941800" parentId="24013051">ГЕЛЬ-ЛАКИ CANNI</category>
+      <category id="24013051" parentId="24012752">ГЕЛЬ-ЛАКИ</category>
+      <category id="24013186" parentId="24012752">БАЗОВОЕ И ФИНИШНОЕ ПОКРЫТИЕ</category>
+      <category id="24021523" parentId="24015185">ГЕЛЬ-КРАСКИ KODI PROFESSIONAL</category>
+      <category id="24015185" parentId="24012752">ГЕЛЬ-КРАСКИ</category>
+      <category id="24015299" parentId="24012752">МАТЕРИАЛЫ ДЛЯ ДИЗАЙНА НОГТЕЙ</category>
+      <category id="24015322" parentId="24012752">ПРОФЕССИОНАЛЬНЫЕ ИНСТРУМЕНТЫ ДЛЯ МАНИКЮРА И ПЕДИКЮРА OLTON</category>
+      <category id="24020653" parentId="24012752">ЭЛЕКТРООБОРУДОВАНИЕ ДЛЯ НОГТЕЙ</category>
+      <category id="24020777" parentId="24012752">ПИЛОЧКИ, БАФЫ</category>
+      <category id="24020924" parentId="24012752">ИНСТРУМЕНТЫ ДЛЯ МАНИКЮРА</category>
+      <category id="24020956" parentId="24012752">ВСПОМОГАТЕЛЬНЫЕ ЖИДКОСТИ</category>
+      <category id="24021773" parentId="24012752">АКРИЛ ДЛЯ НОГТЕЙ</category>
+      <category id="24021780" parentId="24012752">СТАРТОВЫЕ НАБОРЫ ДЛЯ ГЕЛЬ ЛАКА И НАРАЩИВАНИЯ НОГТЕЙ</category>
+      <category id="24021797" parentId="24012752">ГЕЛЬ ДЛЯ НАРАЩИВАНИЯ НОГТЕЙ</category>
+      <category id="24021804" parentId="24012752">ОДНОРАЗОВАЯ ПРОДУКЦИЯ ДЛЯ САЛОНОВ</category>
+      <category id="24021812" parentId="24012752">ПЕДИКЮР</category>
+      <category id="24021821" parentId="24012752">ТАРА ДЛЯ КОСМЕТОЛОГИИ</category>
+      <category id="24021827" parentId="24012752">КОСМЕТИКА ДЛЯ ЛИЦА</category>
+      <category id="24021830" parentId="24012752">КОСМЕТИКА ДЛЯ НАРАЩИВАНИЯ РЕСНИЦ</category>
+      <category id="6108987" parentId="6025633">Рюкзаки</category>
+      <category id="29585864" parentId="6025633">Футболки</category>
+      <category id="7422045" parentId="6025633">Камуфлированные кофты и батники</category>
+      <category id="6684883" parentId="6025633">Куртки, бушлаты</category>
+      <category id="6031998" parentId="6025633">Камуфляжные брюки и штаны</category>
+      <category id="6026380" parentId="6025633">Костюмы</category>
+      <category id="6025978" parentId="6025633">Ремни офицерские и тактические</category>
+      <category id="6025652" parentId="6025633">Военная обувь (ботинки, берцы, тактическая, тропическая и трекинговая обувь)</category>
+      <category id="4488831" parentId="1225762">Женские спортивные костюмы оптом</category>
+      <category id="1225762" parentId="1196567">Женская спортивная одежда оптом</category>
+      <category id="9350412" parentId="9350395">Плечики</category>
+      <category id="9350413" parentId="9350395">Подставки под товар(сетки)</category>
+      <category id="9350414" parentId="9350395">Сетка торговая</category>
+      <category id="9350415" parentId="9350395">Стойка вертушка</category>
+      <category id="9350417" parentId="9350395">Пуфики</category>
+      <category id="9350419" parentId="9350395">Экономпанели</category>
+      <category id="9350448" parentId="9350408">Расходные мателиалы</category>
+      <category id="9350446" parentId="9350408">Маркировочные пистолеты</category>
+      <category id="9350408" parentId="9350395">Оборудование для маркировки</category>
+      <category id="9350424" parentId="9350399">Зеркала в полный рост</category>
+      <category id="9350404" parentId="9350395">Манекены</category>
+      <category id="9350425" parentId="9350404">Манекен голова</category>
+      <category id="9350435" parentId="9350404">Манекены женские</category>
+      <category id="9350436" parentId="9350404">Манекен мужской</category>
+      <category id="9350437" parentId="9350404">Манекены детские.</category>
+      <category id="9350439" parentId="9350404">Торсы</category>
+      <category id="9350410" parentId="9350395">Настенные конструкции</category>
+      <category id="9350456" parentId="9350410">П-образный профиль</category>
+      <category id="9743126" parentId="9350395">Рейки торговые и другое</category>
+      <category id="31652701" parentId="6486012">Мужские вышиванки</category>
+      <category id="31651941" parentId="6486012">Детские вышиванки</category>
+      <category id="31876359" parentId="6486012">Вышитые рушники</category>
+      <category id="33146297" parentId="14824007">Колготки и чулки женские оптом</category>
+      <category id="14728844" parentId="14724447">Перчатки мужские оптом</category>
+      <category id="14728836" parentId="14724447">Перчатки женские оптом</category>
+      <category id="19619612" parentId="14824251">Очки женские солнцезащитные </category>
+      <category id="19715328" parentId="14824251">Очки мужские солнцезащитные </category>
+      <category id="19864771" parentId="14824251">Очки детские солнцезащитные </category>
+      <category id="16600087" parentId="16600085">Носки мужские оптом</category>
+      <category id="16600091" parentId="16600085">Носки женские оптом</category>
+      <category id="9464930" parentId="16600085">Носки детские оптом</category>
+      <category id="9762556" parentId="9762544">Женские носовые платки оптом</category>
+      <category id="2527455" parentId="1211080">Женские ремни и пояса оптом</category>
+      <category id="14927899" parentId="14927587">Мужские галстуки бабочки оптом</category>
+      <category id="14934214" parentId="14927587">Мужские подтяжки оптом</category>
+      <category id="14934207" parentId="14927587">Детские галстуки и бабочки оптом</category>
+      <category id="14934485" parentId="14927587">Подтяжки детские оптом</category>
+      <category id="51963841">АКСЕССУАРЫ ОПТОМ И В РОЗНИЦУ</category>
+      <category id="33146300" parentId="14824007">Колготы и подштанники детские оптом</category>
+      <category id="2501359" parentId="1211080">Мужские ремни и пояса оптом</category>
+      <category id="1211080" parentId="51963841">РЕМНИ МУЖСКИЕ ЖЕНСКИЕ ДЕТСКИЕ ОПТОМ</category>
+      <category id="9762544" parentId="51963841">НОСОВЫЕ ПЛАТКИ ОПТОМ</category>
+      <category id="16600085" parentId="51963841">НОСКИ МУЖСКИЕ ЖЕНСКИЕ ДЕТСКИЕ ОПТОМ</category>
+      <category id="14824007" parentId="51963841">КОЛГОТКИ И ЧУЛКИ ОПТОМ</category>
+      <category id="14724447" parentId="51963841">ПЕРЧАТКИ ЖЕНСКИЕ МУЖСКИЕ ДЕТСКИЕ ОПТОМ</category>
+      <category id="35029480" parentId="51963841">ШАРФЫ ЖЕНСКИЕ ОПТОМ</category>
+      <category id="6334348" parentId="51963841">ШКОЛЬНЫЕ БАНТЫ ДЛЯ ДЕВОЧЕК ОПТОМ</category>
+      <category id="4613150" parentId="4613127">Шапки детские оптом</category>
+      <category id="4613134" parentId="4613127">Шапки мужские  оптом</category>
+      <category id="4024640" parentId="4015296">Кепки для детей и подростков оптом</category>
+      <category id="4024646" parentId="4015296">Мужские кепки и бейсболки оптом</category>
+      <category id="4613146" parentId="4613127">Женские шапки оптом</category>
+      <category id="4613127" parentId="14517051">Шапки оптом</category>
+      <category id="4024641" parentId="4015296">Женские кепки бейсболки оптом</category>
+      <category id="6105294" parentId="14516009">ШКОЛЬНЫЕ РЮКЗАКИ ОПТОМ</category>
+      <category id="32025359" parentId="6105294">Рюкзаки школьные "Student"</category>
+      <category id="28896156" parentId="28896152">Женские рюкзаки серии "Vay"</category>
+      <category id="17642224" parentId="6200299">Сумки мужские серия "Valet" оптом</category>
+      <category id="4488887" parentId="14516009">СУМКИ ЖЕНСКИЕ ОПТОМ</category>
+      <category id="28896152" parentId="14516009">СТИЛЬНЫЕ ЖЕНСКИЕ РЮКЗАКИ</category>
+      <category id="6296186" parentId="6044097">Кошельки мужские серия "Bagson"</category>
+      <category id="16714757" parentId="30043334">Кроссовки детские оптом</category>
+      <category id="16692323" parentId="4511397">Обувь для непогоды детская оптом</category>
+      <category id="16778919" parentId="4511397">Детская домашняя обувь оптом</category>
+      <category id="16743413" parentId="4108852">Угги женские оптом</category>
+      <category id="16743391" parentId="4108852">Женская летняя обувь оптом</category>
+      <category id="4511397" parentId="14516916">ОБУВЬ ДЕТСКАЯ ОПТОМ</category>
+      <category id="16692654" parentId="16692564">Сандали на мальчика оптом</category>
+      <category id="30043334" parentId="14516916">КРОССОВКИ ОПТОМ</category>
+      <category id="16742355" parentId="30043334">Кроссовки мужские оптом</category>
+      <category id="7287005" parentId="6105294">Школьные рюкзаки и сумки "Orbita" оптом</category>
+      <category id="7346052" parentId="6105294">Школьные рюкзаки и сумки "Melisa" оптом</category>
+      <category id="6107840" parentId="6107827">Дорожные и спортивные сумки и рюкзаки "Prestige"</category>
+      <category id="17668380" parentId="6107827">Дорожные и спортивные сумки и рюкзаки "Valet"</category>
+      <category id="20299018" parentId="6107827">Рюкзаки городские "Shkolnik"</category>
+      <category id="49935978" parentId="9412933">Детские кошельки "Orbita" оптом</category>
+      <category id="6707710" parentId="6042163">Кошельки женские серия "Bosco"</category>
+      <category id="6042167" parentId="6042163">Кошельки женские серия "Melisa"</category>
+      <category id="8067307" parentId="6042163">Кошельки женские "Balisa" </category>
+      <category id="6044103" parentId="6044097">Кошельки мужские серия "Melisa"</category>
+      <category id="29656530" parentId="28896152">Женские рюкзачки серии "WeLassie"</category>
+      <category id="11832407" parentId="28896152">Рюкзаки женские серии "Gala"</category>
+      <category id="19217104" parentId="6200299">Сумки мужские серия "L&amp;L" оптом</category>
+      <category id="16136103" parentId="4489906">Детские рубашки оптом для девочек</category>
+      <category id="16136100" parentId="4489906">Детские рубашки оптом для мальчиков</category>
+      <category id="28980238" parentId="16136329">Детские штаны оптом для девочек</category>
+      <category id="28952658" parentId="28952651">Детские водолазки оптом для девочек</category>
+      <category id="28952655" parentId="28952651">Детские водолазки оптом для мальчиков</category>
+      <category id="24441203" parentId="4489817">Детские кофты оптом для девочек</category>
+      <category id="24440840" parentId="4489817">Детские кофты оптом для мальчиков</category>
+      <category id="24441093" parentId="24440840">Детские кофты оптом для мальчиков</category>
+      <category id="16136422" parentId="4489817">Детские вязанные кофты и свитера для мальчиков оптом</category>
+      <category id="10402079" parentId="14928461">Трусы детские оптом</category>
+      <category id="15774751" parentId="15709658">Карнавальные костюмы овощей фруктов цветов оптом</category>
+      <category id="15936614" parentId="15709658">Карнавальные костюмы для малышей оптом</category>
+      <category id="15939186" parentId="15709658">Карнавальные аксессуары оптом</category>
+      <category id="22234376" parentId="22233874">Школьная одежда оптом для мальчиков</category>
+      <category id="22234372" parentId="22233874">Школьная одежда оптом для девочек</category>
+      <category id="24441176" parentId="29016280">Детские батники оптом</category>
+      <category id="28972803" parentId="24441176">Детские батники оптом для мальчиков</category>
+      <category id="24440857" parentId="29016280">Детские свитшоты оптом</category>
+      <category id="28974207" parentId="24440857">Детские свитшоты оптом для мальчиков</category>
+      <category id="28974180" parentId="24440857">Детские свитшоты оптом для девочек</category>
+      <category id="24441211" parentId="24441176">Детские батники оптом для девочек</category>
+      <category id="28983667" parentId="4489808">Детские футболки оптом для мальчиков</category>
+      <category id="28984248" parentId="4489808">Детские футболки оптом для девочек</category>
+      <category id="16868743" parentId="14928403">Детские купальники оптом для девочек</category>
+      <category id="29008099" parentId="4489835">Детские костюмы оптом для девочек</category>
+      <category id="29008088" parentId="4489835">Детские костюмы оптом для мальчиков</category>
+      <category id="4489761" parentId="2773686">Детские спортивные костюмы оптом</category>
+      <category id="16140382" parentId="4489761">Детские спортивные костюмы для девочек оптом</category>
+      <category id="16140378" parentId="4489761">Детские спортивные костюмы для мальчиков оптом</category>
+      <category id="4489765" parentId="2773686">Штаны спортивные детские</category>
+      <category id="16140387" parentId="4489765">Детские спортивные штаны для девочек</category>
+      <category id="13582837" parentId="2773686">Батники детские спортивные оптом</category>
+      <category id="24404569" parentId="2773686">Зимняя детская спортивная одежда оптом</category>
+      <category id="24404811" parentId="24404569">Зимние детские спортивные штаны для мальчиков</category>
+      <category id="24404577" parentId="24404569">Зимние спортивные костюмы для девочек</category>
+      <category id="16140384" parentId="4489765">Детские спортивные штаны для мальчиков оптом</category>
+      <category id="24404667" parentId="24404569">Зимние спортивные костюмы для мальчиков</category>
+      <category id="24404817" parentId="24404569">Зимние детские спортивные батники для мальчиков</category>
+      <category id="25055453" parentId="24404569">Зимние детские спортивные штаны для девочек</category>
+      <category id="28937733" parentId="14928432">Детские ветровки оптом</category>
+      <category id="28939497" parentId="28937733">Детские ветровки оптом для девочек</category>
+      <category id="28937734" parentId="28937733">Детские ветровки оптом для мальчиков</category>
+      <category id="28937694" parentId="14928432">Детские жилетки оптом</category>
+      <category id="28939491" parentId="28937694">Детские жилетки оптом для девочек</category>
+      <category id="28937703" parentId="28937694">Детские жилетки оптом для мальчиков</category>
+      <category id="14930318" parentId="14930043">Детские комбинезоны оптом для мальчиков</category>
+      <category id="14829816" parentId="14928432">Детские парки оптом</category>
+      <category id="14829823" parentId="14829816">Детские парки оптом для девочек </category>
+      <category id="14829821" parentId="14829816">Детские парки оптом для мальчиков</category>
+      <category id="28937801" parentId="14928432">Детские бомбера оптом</category>
+      <category id="28939501" parentId="14928432">Детское пальто оптом</category>
+      <category id="28974032" parentId="24440837">Детские свитера оптом для мальчиков</category>
+      <category id="28974037" parentId="24440837">Детские свитера оптом для девочек</category>
+      <category id="1196569" parentId="14513323">ДЕТСКАЯ ОДЕЖДА ОПТОМ</category>
+      <category id="14829817" parentId="14928432">Детские куртки оптом</category>
+      <category id="8093087" parentId="1196564">Мужские трусы, подштанники, белье оптом</category>
+      <category id="4571392" parentId="1196564">Халаты мужские оптом</category>
+      <category id="4566993" parentId="1225776">Мужские батники толстовки оптом</category>
+      <category id="4489263" parentId="1225776">Спортивные штаны мужские оптом</category>
+      <category id="16866596" parentId="1196564">Мужская зимняя одежда оптом</category>
+      <category id="25454483" parentId="16921500">Женские джемпера оптом</category>
+      <category id="15599238" parentId="16921500">Женские батники оптом</category>
+      <category id="16692564" parentId="16692152">Обувь на мальчика летняя оптом</category>
+      <category id="16692152" parentId="4511397">Детская летняя обувь оптом</category>
+      <category id="31642360" parentId="4511397">Спортивная детская обувь оптом</category>
+      <category id="30042954" parentId="4108852">Балетки женские оптом</category>
+      <category id="16755377" parentId="4108852">Босоножки женские оптом </category>
+      <category id="30042899" parentId="4108852">Кеды оптом</category>
+      <category id="16755380" parentId="4108852">Мокасины женские  оптом</category>
+      <category id="16755382" parentId="4108852">Слипоны женские оптом</category>
+      <category id="16743436" parentId="4108852">Сникерсы женские оптом</category>
+      <category id="16743573" parentId="4108852">Ботинки женские оптом</category>
+      <category id="9616426" parentId="4108852">Домашние тапочки оптом </category>
+      <category id="21689488" parentId="14513323">ДЖИНСЫ ОПТОМ</category>
+      <category id="23364342" parentId="4489304">Мужские джинсы на флисе оптом</category>
+      <category id="22199205" parentId="16091662">Зимние джинсы на мальчика оптом</category>
+      <category id="22199191" parentId="16091727">Джинсовые юбки комбинезоны на девочку оптом</category>
+      <category id="22198423" parentId="16091662">Джинсовые куртки жилетки на мальчика оптом</category>
+      <category id="22198317" parentId="16091727">Джинсовые куртки жилетки на девочку оптом</category>
+      <category id="22198248" parentId="16091727">Джинсовые шорты бриджи капри на девочку оптом</category>
+      <category id="22198209" parentId="16091662">Джинсовые шорты бриджи капри на мальчика оптом</category>
+      <category id="22198199" parentId="16091662">Джинсы на мальчика оптом</category>
+      <category id="21176860" parentId="4567736">Женские джинсовые комбинезоны платья оптом</category>
+      <category id="16091727" parentId="6189900">Детская джинсовая одежда для девочек оптом</category>
+      <category id="16091662" parentId="6189900">Детская джинсовая одежда для мальчиков оптом</category>
+      <category id="10871378" parentId="4567736">Джинсовые юбки оптом</category>
+      <category id="4567736" parentId="21689488">Женская джинсовая одежда оптом</category>
+      <category id="4489304" parentId="21689488">Мужская джинсовая одежда оптом</category>
+      <category id="6189900" parentId="21689488">Детская джинсовая одежда оптом для мальчиков и девочек</category>
+      <category id="22252491" parentId="16091727">Джинсовые юбки и сарафаны на девочку оптом</category>
+      <category id="25930660" parentId="16912148">Женские сарафаны оптом</category>
+      <category id="22068851" parentId="16912148">Женские летние шорты бриджи капри оптом</category>
+      <category id="25454470" parentId="16912147">Женские бомберы оптом</category>
+      <category id="25278557" parentId="4567785">Халаты женские оптом</category>
+      <category id="4489085" parentId="16912141">Женские брюки оптом</category>
+      <category id="4489165" parentId="16912141">Женские лосины и леггинсы оптом</category>
+      <category id="4489079" parentId="4762109">Женские кофты оптом</category>
+      <category id="4489157" parentId="16912148">Женские футболки майки хулиганки оптом</category>
+      <category id="11015788" parentId="16912148">Женские купальники оптом</category>
+      <category id="1196567" parentId="14513323">ЖЕНСКАЯ ОДЕЖДА ОПТОМ</category>
+      <category id="16921500" parentId="1196567">Женские свитшоты, батники, регланы оптом</category>
+      <category id="4489153" parentId="1196567">Женские блузки и рубашки оптом </category>
+      <category id="4489099" parentId="1196567">Женские туники оптом</category>
+      <category id="25278183" parentId="4567785">Женские пижамы оптом</category>
+      <category id="25278571" parentId="4567785">Женские ночнушки оптом</category>
+      <category id="25248065" parentId="24892716">Золотой Дракон салюты оптом</category>
+      <category id="15947535" parentId="1196564">Мужские карнавальные костюмы</category>
+      <category id="10871407" parentId="4567736">Женские джинсовые куртки и жилетки оптом</category>
+      <category id="10871230" parentId="4567736">Женские джинсовые шорты оптом</category>
+      <category id="10870027" parentId="4567736">Джинсы женские оптом</category>
+      <category id="10870016" parentId="4489304">Мужские джинсовые шорты оптом</category>
+      <category id="4762109" parentId="1196567">Женские свитера, кофты и кардиганы оптом</category>
+      <category id="4489311" parentId="16866596">Мужские куртки и теплые жилетки оптом </category>
+      <category id="4489299" parentId="16866717">Мужские футболки и майки борцовки оптом</category>
+      <category id="4489259" parentId="1225776">Мужские спортивные костюмы оптом</category>
+      <category id="4488833" parentId="1225762">Штаны женские спортивные оптом</category>
+      <category id="4571373" parentId="16866717">Мужские шорты и бриджи оптом</category>
+      <category id="4489231" parentId="1196567">Женские костюмы оптом</category>
+      <category id="1196564" parentId="14513323">МУЖСКАЯ ОДЕЖДА ОПТОМ</category>
+      <category id="15938281" parentId="15709658">Карнавальные детские юбки оптом</category>
+      <category id="15774563" parentId="15709658">Карнавальные костюмы сказочных героев оптом</category>
+      <category id="4571357" parentId="16866716">Мужские штаны и брюки оптом</category>
+      <category id="4552396" parentId="16921500">Женские свитшоты оптом</category>
+      <category id="16868750" parentId="14928403">Детские плавки оптом для мальчиков</category>
+      <category id="16136387" parentId="16136329">Детские штаны оптом для мальчиков</category>
+      <category id="14829825" parentId="14829817">Детские куртки оптом для девочек</category>
+      <category id="14829824" parentId="14829817">Детские куртки оптом для мальчиков </category>
+      <category id="10870013" parentId="4489304">Джинсы мужские оптом</category>
+      <category id="6301078" parentId="1196569">Детские кардиганы болеро оптом</category>
+      <category id="1225776" parentId="1196564">Спортивная мужская одежда оптом</category>
+      <category id="21008163" parentId="28896152">Женские рюкзаки серии "E&amp;Y"</category>
+      <category id="28898509" parentId="28896152">Женские стильные рюкзаки серии "Student"</category>
+      <category id="26812284" parentId="28896152">Рюкзаки женские серии "Shkolnik"</category>
+      <category id="6992141" parentId="6200299">Сумки мужские серия "Little Pigeon"</category>
+      <category id="7319297" parentId="28896152">Рюкзаки женские серии "Kiss Me"</category>
+      <category id="28896844" parentId="28896152">Женские рюкзаки серии "Prestige"</category>
+      <category id="21009771" parentId="28896152">Рюкзаки женские  серии "L&amp;L"</category>
+      <category id="29949477" parentId="28896152">Рюкзаки серии "MilanaShop"</category>
+      <category id="28908075" parentId="28896152">Женские рюкзаки серии "Melisa"</category>
+      <category id="19715229" parentId="28896152">Рюкзаки женские "Luna"</category>
+      <category id="19086444" parentId="28896152">Женские рюкзаки серии "Ameli"</category>
+      <category id="28908337" parentId="28896152">Женские рюкзаки серии "Lucky Bags"</category>
+      <category id="4567785" parentId="1196567">Женская одежда для сна и дома</category>
+      <category id="51941747" parentId="24013051">ГЕЛЬ-ЛАКИ GDCOCO</category>
+      <category id="51941718" parentId="6107827">Спортивные рюкзаки, кошельки и косметички серия "Gres"</category>
+      <category id="6126080" parentId="6107827">Сумки дорожные "Luna"</category>
+      <category id="14824251" parentId="51963841">ОЧКИ СОЛНЦЕЗАЩИТНЫЕ ОПТОМ</category>
+      <category id="49935988" parentId="9412933">Детские кошельки "Melisa" оптом</category>
+      <category id="14930327" parentId="14930043">Детские комбинезоны оптом для девочек</category>
+      <category id="15774736" parentId="15709658">Карнавальные костюмы животных птиц насекомых оптом</category>
+      <category id="14930043" parentId="14928432">Детские комбинезоны оптом</category>
+      <category id="22198243" parentId="16091727">Джинсы на девочку оптом</category>
+      <category id="4755417" parentId="14928461">Детские пижамы и халаты для мальчиков и девочек оптом</category>
+      <category id="21065015" parentId="6025633">Тактические и военные аксессуары </category>
+      <category id="31651845" parentId="6486012">Женские вышиванки</category>
+      <category id="6026129" parentId="6025633">Камуфляжные кепки</category>
+      <category id="14728841" parentId="14724447">Перчатки детские оптом</category>
+    </categories>
+  <offers>
+<offer available="true" id="985287706">
+    <url>https://ukroptmarket.com.ua/p985287706-futbolka-top-zhenskaya.html</url>
+    <price>114</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>4489157</categoryId>
+    <picture>https://images.ua.prom.st/1828946731_futbolka-top-zhenskaya-42-46.jpg</picture>
+    <picture>https://images.ua.prom.st/1828946713_futbolka-top-zhenskaya-42-46.jpg</picture>
+    <picture>https://images.ua.prom.st/1828946733_futbolka-top-zhenskaya-42-46.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Футболка-топ женская (42-46) "Anastasia" LM-887</name>
+    <vendorCode>№ Q249059</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
+    <description>Хорошее качество
+
+Материал: трикотаж
+
+Размер универсальный: 42-46
+
+Минимальный заказ - 2 шт.
+
+Цвета как на фото( в ростовке один цвет)
+
+Желаемый цвет указывайте в комментарии к заказу
+
+Страна-производитель: Турция
+
+ 
+
+Весь ассортимент женских футболок нашего магазина смотрите тут
+
+
+
+Внимание! На сайте везде представлены оптовые цены. При оформлении заказа до 500 грн., для любой категории клиентов к общей стоимости заказа будет добавлена розничная наценка (+50 грн). Для приобретения товара без розничной наценки необходимо соблюсти два условия:
+
+
+	сумма заказа должна быть более 500 грн;
+	нужно заказать не менее 5 единиц из одного товарного раздела.
+
+
+Если данные условия не соблюдены - к общей стоимости заказа будет добавлена розничная наценка, которая указана в условиях сотрудничества, в разделе "Условия для розничных покупателей".
+
+Для более детальной информации ознакомьтесь с условиями сотрудничества нашей компании.
+
+
+
+Подписывайтесь на наше Viber сообщество
+
+Подписывайтесь на наш Telegram канал
+
+♦♦♦ Общайтесь с нами вживую в Ваших любимых мессенджерах и узнавайте о новинках первыми! ♦♦♦
+ </description>
+    <sales_notes>мин. партия товара 2 шт.</sales_notes>
+    <param name="Состояние">Новое</param>
+    <param name="Тип ткани">Трикотаж</param>
+    <param name="Сезон" unit="">Лето</param>
+    <param name="Отделка и украшения" unit=""></param>
+    <param name="Застежка" unit=""></param>
+    <param name="Размер " unit="">Норма</param>
+  </offer>
+  <offer available="true" id="985287710">
+    <url>https://ukroptmarket.com.ua/p985287710-shlepki-zhenskie-aksu.html</url>
+    <price>185</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>16755379</categoryId>
+    <picture>https://images.ua.prom.st/1829029332_shlepki-zhenskie-aksu.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Шлепки женские AKSU шлепки золотой (8 пар р.36-40) "Jumay" LZ-1318</name>
+    <vendorCode>fid_329275</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
+    <description>Количество Пар в ящике:  8 пар
+Размерная сетка: р.36-40
+Сезон: Лето
+Цвет: золотой
+Материал верха:  искусственная кожа-искусственный лак
+Материал подошвы:  пвх
+Повторные размеры:  37-2,38-2,39-2
+Бренд:  Aksu
+Серия:  Jumay
+Страна:  Турция
+2019-06-12 15:00:48Модели 2019: Обувь Ростовками и Оптом
+ Возврат только в случае заводского Брака.
+ Продаем только ростовками. Внимание!Первая и вторая цена являются оптовыми ценами!При оформлении заказа до 500 грн., для любой категории клиентов будет наценка +50 грн к общей стоимости заказа. Для более детальной информации ознакомьтесь с условиями сотрудничества нашей компанииВесь ассортимент обуви оптом нашего магазина смотрите тут
+Подписывайтесь на наше Viber сообщество
+Подписывайтесь на наш Telegram канал♦♦♦ Общайтесь с нами вживую в Ваших любимых мессенджерах и узнавайте о новинках первыми! ♦♦♦</description>
+    <sales_notes>мин. партия товара 8 шт.</sales_notes>
+    <param name="Сезон" unit="">Лето</param>
+    <param name="Цвет" unit="">золотой</param>
+    <param name="Пол" unit="">Женский</param>
+    <param name="Серия" unit="">Jumay</param>
+  </offer>
+
+  </offers>
+</shop>
+</yml_catalog>

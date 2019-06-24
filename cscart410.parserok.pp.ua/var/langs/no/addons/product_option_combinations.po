@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Norwegian\n"
+"Language: no_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: no\n"
+"X-Crowdin-File: /release-4.10.1/addons/product_option_combinations.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-05-08 07:39\n"
+
+msgctxt "Addons::name::product_option_combinations"
+msgid "Product option combinations [Deprecated]"
+msgstr ""
+
+msgctxt "Addons::description::product_option_combinations"
+msgid "Create multiple variants of the same product based on one or multiple options. Note that product variations are a better choice than option combinations in most cases. The only exception is when you have third-party add-ons that work only with option combinations."
+msgstr ""
+
+msgctxt "Languages::product_option_combinations.upgrade_notification.convert_title"
+msgid "ACTION RECOMMENDED: Convert option combinations to product variations"
+msgstr ""
+
+msgctxt "Languages::product_option_combinations.upgrade_notification.convert_message"
+msgid "In [product] 4.10.1 <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/product_variations.html\" target=\"_blank\">product variations</a> are finally out of beta. They can do <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/simple_versus_configurable.html\" target=\"_blank\">everything that option combinations can, and more</a>. Option combinations are still available, but deprecated—we won't further develop that functionality. That's why we advise converting option combinations to product variations. There is a special tool that will allow you to <a href=\"[convert_url]\" target=\"_blank\">check everything and convert option combinations automatically</a>. The only reason not to do it is if you have third-party add-ons that rely on option combinations. Even then, some of these add-ons might not be necessary with variations."
+msgstr ""
+

@@ -1,0 +1,393 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:1979:"<script type="text/javascript" src="https://fame.parserok.pp.ua/js/tygh/product_image_gallery.js?ver=4.10.1" ></script><script type="text/javascript" src="https://fame.parserok.pp.ua/js/lib/owlcarousel/owl.carousel.min.js?ver=4.10.1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_90');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 3,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 1];
+
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['Назад', 'Вперед'],
+                                pagination: false,
+                        });
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:8904:"    <div class="ty-mainbox-simple-container clearfix homepage-hotdeals">
+                    <h2 class="ty-mainbox-simple-title">
+                
+                                    Bestsellers
+                                
+
+            </h2>
+                <div class="ty-mainbox-simple-body">
+
+        
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+
+<div id="scroll_list_90" class="owl-carousel ty-scroller-list grid-list ty-scroller-advanced">
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="https://fame.parserok.pp.ua/" method="post" name="product_form_900005765" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5765][product_id]" value="5765" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="https://fame.parserok.pp.ua/home/domestic-appliances/large-home-appliances/2011-tycoon/">
+                        <img class="ty-pict     cm-image" id="det_img_900005765"  src="https://fame.parserok.pp.ua/images/thumbnails/150/150/detailed/8/url_uploaded_file_13287872334f33af2276de4.jpg"  alt="" title="" srcset="https://fame.parserok.pp.ua/images/thumbnails/300/300/detailed/8/url_uploaded_file_13287872334f33af2276de4.jpg 2x"/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="https://fame.parserok.pp.ua/home/domestic-appliances/large-home-appliances/2011-tycoon/" class="product-title" title="2011 Tycoon" >2011 Tycoon</a>    
+
+</bdi>
+                    </div>
+
+                    
+                                                                <div class="grid-list__rating">
+                                
+                                
+                    <span class="ty-nowrap ty-stars">
+                        <a href="https://fame.parserok.pp.ua/home/domestic-appliances/large-home-appliances/2011-tycoon/?selected_section=discussion#discussion">
+            
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+            </a>
+    </span>
+
+        
+    
+
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="ec67ba0d86f9dcf3d296c6e273773691" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="https://fame.parserok.pp.ua/" method="post" name="product_form_900005766" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5766][product_id]" value="5766" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="https://fame.parserok.pp.ua/watches/apple-watch-nike/">
+                        <img class="ty-pict     cm-image" id="det_img_900005766"  src="https://fame.parserok.pp.ua/images/thumbnails/150/150/detailed/8/alu-spacegray-sport-blackvolt-gallery1_GEO_US.jpg"  alt="" title="" srcset="https://fame.parserok.pp.ua/images/thumbnails/300/300/detailed/8/alu-spacegray-sport-blackvolt-gallery1_GEO_US.jpg 2x"/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="https://fame.parserok.pp.ua/watches/apple-watch-nike/" class="product-title" title="Apple Watch Nike+" >Apple Watch Nike+</a>    
+
+</bdi>
+                    </div>
+
+                    
+                                                                <div class="grid-list__rating">
+                                
+                                
+                    <span class="ty-nowrap ty-stars">
+                        <a href="https://fame.parserok.pp.ua/watches/apple-watch-nike/?selected_section=discussion#discussion">
+            
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+            </a>
+    </span>
+
+        
+    
+
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="ec67ba0d86f9dcf3d296c6e273773691" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="https://fame.parserok.pp.ua/" method="post" name="product_form_900005764" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5764][product_id]" value="5764" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="https://fame.parserok.pp.ua/electronics/game-consoles/consoles/microsoft/x-box-one/">
+                        <img class="ty-pict     cm-image" id="det_img_900005764"  src="https://fame.parserok.pp.ua/images/thumbnails/150/150/detailed/8/i.jpg"  alt="" title="" srcset="https://fame.parserok.pp.ua/images/thumbnails/300/300/detailed/8/i.jpg 2x"/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="https://fame.parserok.pp.ua/electronics/game-consoles/consoles/microsoft/x-box-one/" class="product-title" title="X-Box One" >X-Box One</a>    
+
+</bdi>
+                    </div>
+
+                    
+                                                                <div class="grid-list__rating">
+                                
+                                
+                    <span class="ty-nowrap ty-stars">
+                        <a href="https://fame.parserok.pp.ua/electronics/game-consoles/consoles/microsoft/x-box-one/?selected_section=discussion#discussion">
+            
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-half"></i>
+    
+    
+            </a>
+    </span>
+
+        
+    
+
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="ec67ba0d86f9dcf3d296c6e273773691" /></form>
+
+                </div>
+                    </div>
+        
+
+    </div>
+
+<!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}
